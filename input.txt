@@ -1,0 +1,29 @@
+-- Players --
+
+ClaXus Jecht Nomi_Marks Kefka_Palazzo
+Darckzander Aldiabloss Bluetooth _Soul_reaper_
+Didier_Raoult
+f4rmeur_f0u Prince_of_Persia Xenmas
+Garuda Jessyca_Wilson Scarlett_Johansson Mina_Sauvage
+Gregsto11
+Huey -Sucette- PhuteMegre
+Inoubliable-Squall Sweeney
+Locke Lockounet
+Marluxia
+Redsox Redou Horizz EnTTraineur
+SquonK Shiho PsY
+Tae-Ju Zack
+TymGiu Hades
+zlogjzeigfzgjpzeige MLogan
+_Jagged_Edge_
+
+
+-- Games --
+
+[00:15:17] <SquonK> [00:15:11] Partie avec EnTTraineur terminée ; votre score : 7 rouge
+[00:15:17] <SquonK> [00:15:11] Partie avec EnTTraineur terminée ; votre score : 6 mp
+[00:15:17] <SquonK> [00:15:11] Partie avec EnTTraineur terminée ; votre score : 2 (mp id +)
+[00:15:17] <SquonK> [00:15:11] Partie avec EnTTraineur terminée ; votre score : 1 mkc bat elem
+[00:15:17] <SquonK> [00:15:11] Partie avec EnTTraineur terminée ; votre score : 9 o
+
+
