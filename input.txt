@@ -20,10 +20,19 @@ _Jagged_Edge_
 
 -- Games --
 
-[00:15:17] <SquonK> [00:15:11] Partie avec EnTTraineur terminée ; votre score : 7 rouge
-[00:15:17] <SquonK> [00:15:11] Partie avec EnTTraineur terminée ; votre score : 6 mp
-[00:15:17] <SquonK> [00:15:11] Partie avec EnTTraineur terminée ; votre score : 2 (mp id +)
-[00:15:17] <SquonK> [00:15:11] Partie avec EnTTraineur terminée ; votre score : 1 mkc bat elem
-[00:15:17] <SquonK> [00:15:11] Partie avec EnTTraineur terminée ; votre score : 9 o
+// Surveillé par Tae-Ju
+[10:00:17] <TymGiu> [10:00:16] Partie avec Tae-Ju terminée ; votre score : 6 r
+[10:06:13] <TymGiu> [10:06:12] Partie avec Tae-Ju terminée ; votre score : 6 o
+[10:10:05] <TymGiu> [10:10:02] Partie avec Tae-Ju terminée ; votre score : 7 b
+[10:14:10] <TymGiu> [10:14:09] Partie avec Tae-Ju terminée ; votre score : 5 v
+[10:44:54] <Hades> [10:44:52] Partie avec Tae-Ju terminée ; votre score : 5 j
+
+// Surveillé par Tae-Ju
+[10:28:14] <_Jagged_Edge_> [10:27:54] Partie avec Hades terminée ; votre score : 5 r
+[10:32:02] <_Jagged_Edge_> [10:31:44] Partie avec Hades terminée ; votre score : 6 o
+[10:36:13] <_Jagged_Edge_> [10:35:54] Partie avec Hades terminée ; votre score : 4 b
+[10:42:01] <_Jagged_Edge_> [10:41:42] Partie avec Hades terminée ; votre score : 5 v
+[10:46:46] <_Jagged_Edge_> [10:46:26] Partie avec Hades terminée ; votre score : 4 j
+
 
 

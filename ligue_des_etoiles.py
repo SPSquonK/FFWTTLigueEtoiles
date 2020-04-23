@@ -44,11 +44,14 @@ def convert_rule(rule_str):
 
     has_mp = has("mp") or has("vert") or has("bleu")
     has_plus = has("+") or has("rouge") or has("bleu")
-    has_mkc = has("mkc") or has("mc") or has("yellow")
+    has_mkc = has("mkc") or has("mc") or has("jaune")
     has_mm = has("mm")
 
     if has_mkc:
-        return "mkc"
+        if has_plus or has_mp or has_mm:
+            sys.stderr.print("Unknown rule : " + rule_str)
+        else:
+            return "mkc"
     elif has_mp:
         if has_plus:
             return "mp + ="
@@ -77,9 +80,6 @@ def read_game(line):
         game_object["player2"] = find_player(player2)
         game_object["score"] = int(score)
         game_object["rule"] = convert_rule(rule_str)
-
-
-        pp.pprint(game_object, indent=2)
 
         return game_object
     else:
@@ -173,10 +173,6 @@ for player_name in list_of_players:
 #pp.pprint(list_of_other_names, indent=2)
 
 
-
-print("=======================")
-print("=======================")
-print("=======================")
 print()
 print()
 print('<table class="wikitable" border="1" style="text-align: center;">')
@@ -226,11 +222,9 @@ print()
 
 
 
-
-
-print("=======================")
-print("=======================")
-print("=======================")
+print("----")
+print("----")
+print("----")
 print()
 print()
 print()
@@ -240,7 +234,7 @@ print('<table class="wikitable" border="1" style="text-align: center; width: 100
 def get_rule_header():
     s = "<tr>"
     for rule in rules:
-        s += "<th></th><th colspan=2>" + rule + "</th>"
+        s += "<th></th><th colspan=2>" + rules[rule][1] + "</th>"
     s += "</tr>"
     return s
 
@@ -302,9 +296,9 @@ print()
 print()
 
 
-print("=======================")
-print("=======================")
-print("=======================")
+print("----")
+print("----")
+print("----")
 
 
 player_global_ranking = []
