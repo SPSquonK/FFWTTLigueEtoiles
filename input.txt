@@ -93,5 +93,20 @@ _Jagged_Edge_
 [18:00:18] <ClaXus> [17:59:35] Partie avec PhuteMegre terminée ; votre score : 5 mkc elem bat
 
 
+// Surveillé par SquonK
+[18:50:04] <f4rmeur_f0u> [18:49:45] Partie avec Gregsto11 terminée ; votre score : 4 rouge
+[18:54:20] <f4rmeur_f0u> [18:54:14] Partie avec Gregsto11 terminée ; votre score : 5 orange
+[18:58:09] <f4rmeur_f0u> [18:58:05] Partie avec Gregsto11 terminée ; votre score : 5 bleu
+[19:00:36] <f4rmeur_f0u> [19:00:29] Partie avec Gregsto11 terminée ; votre score : 6 vert
+[19:05:20] <f4rmeur_f0u> [19:05:15] Partie avec Gregsto11 terminée ; votre score : 8 jaune
+[18:50:16] <Gregsto11> [17:54:31] Partie avec f4rmeur_f0u terminée ; votre score : 6 rouge
+[18:54:29] <Gregsto11> [18:54:15] Partie avec f4rmeur_f0u terminée ; votre score : 5 orange
+[18:58:15] <Gregsto11> [18:58:07] Partie avec f4rmeur_f0u terminée ; votre score : 5 bleu
+[19:00:40] <Gregsto11> [19:00:31] Partie avec f4rmeur_f0u terminée ; votre score : 4 vert
+[19:05:27] <Gregsto11> [19:05:16] Partie avec f4rmeur_f0u terminée ; votre score : 2 jaune
+
+
+
+
 
 

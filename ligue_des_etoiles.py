@@ -45,7 +45,7 @@ def convert_rule(rule_str):
     has_mp = has("mp") or has("vert") or has("bleu")
     has_plus = has("+") or has("rouge") or has("bleu")
     has_mkc = has("mkc") or has("mc") or has("jaune")
-    has_mm = has("mm")
+    has_mm = has("mm") or has("orange")
 
     if has_mkc:
         if has_plus or has_mp or has_mm:
