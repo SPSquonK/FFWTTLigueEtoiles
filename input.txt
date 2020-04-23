@@ -34,5 +34,9 @@ _Jagged_Edge_
 [10:42:01] <_Jagged_Edge_> [10:41:42] Partie avec Hades terminée ; votre score : 5 v
 [10:46:46] <_Jagged_Edge_> [10:46:26] Partie avec Hades terminée ; votre score : 4 j
 
-
-
+// Surveillé par Tae-Ju
+[10:58:16] <_Jagged_Edge_> [10:58:04] Partie avec Tae-Ju terminée ; votre score : 4 r
+[11:07:02] <_Jagged_Edge_> [11:06:47] Partie avec Tae-Ju terminée ; votre score : 2 o
+[11:11:23] <_Jagged_Edge_> [11:11:09] Partie avec Tae-Ju terminée ; votre score : 7 b
+[11:15:08] <_Jagged_Edge_> [11:14:55] Partie avec Tae-Ju terminée ; votre score : 5 v
+[11:18:39] <_Jagged_Edge_> [11:18:27] Partie avec Tae-Ju terminée ; votre score : 5 j

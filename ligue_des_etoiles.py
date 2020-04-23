@@ -272,7 +272,7 @@ for rule in rules:
 
 
 for i in range(len(list_of_players)):
-    s = "<tr><th>" + str(i) + "</th>"
+    s = "<tr><th>" + str(i + 1) + "</th>"
 
     for (k, rule) in enumerate(rules):
         if k != 0:
