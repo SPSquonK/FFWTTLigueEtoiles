@@ -11,11 +11,11 @@ Huey -Sucette- PhuteMegre
 juju777
 Locke Lockounet
 Marluxia Zell
-Redsox Redou Horizz EnTTraineur Redsox_Dispo
+Redsox Redou Horizz Redsox_Dispo
 SquonK Shiho PsY
 Sweeney Inoubliable-Squall
 Tae-Ju Zack Tae
-TymGiu Hades
+TymGiu Hades Ikks Lalime
 zlogjzeigfzgjpzeige MLogan
 _Jagged_Edge_
 
@@ -105,8 +105,63 @@ _Jagged_Edge_
 [19:00:40] <Gregsto11> [19:00:31] Partie avec f4rmeur_f0u terminée ; votre score : 4 vert
 [19:05:27] <Gregsto11> [19:05:16] Partie avec f4rmeur_f0u terminée ; votre score : 2 jaune
 
+// Surveillé par Tae-Ju
+[19:06:20] <juju777> [19:06:09] Partie avec f4rmeur_f0u terminée ; votre score : 5 r
+[19:10:34] <juju777> [19:10:23] Partie avec f4rmeur_f0u terminée ; votre score : 4 o
+[19:14:30] <juju777> [19:14:20] Partie avec f4rmeur_f0u terminée ; votre score : 5 b
+[19:19:46] <juju777> [19:19:33] Partie avec f4rmeur_f0u terminée ; votre score : 3 v
+[19:23:06] <juju777> [19:22:57] Partie avec f4rmeur_f0u terminée ; votre score : 4 j
+
+// Surveillé par Tae-Ju
+[19:57:48] <Huey> [17:57:39] Partie avec Tae-Ju terminée ; votre score : 5 r
+[20:18:05] <Huey> [18:18:00] Partie avec Tae-Ju terminée ; votre score : 6 o
+[20:25:24] <Huey> [18:25:15] Partie avec Tae-Ju terminée ; votre score : 5 b
+[20:31:41] <Huey> [18:31:35] Partie avec Tae-Ju terminée ; votre score : 5 v
+[20:41:20] <Huey> [18:41:11] Partie avec Tae-Ju terminée ; votre score : 5 j
+
+// Surveillé par Tae-Ju
+[20:08:18] <TymGiu> [20:08:14] Partie avec Darckzander terminée ; votre score : 5 id + alea
+[20:12:49] <TymGiu> [20:12:47] Partie avec Darckzander terminée ; votre score : 5 mm ma elem
+[20:18:52] <TymGiu> [20:18:44] Partie avec Darckzander terminée ; votre score : 5 mp id + alea
+[20:24:00] <TymGiu> [20:23:58] Partie avec Darckzander terminée ; votre score : 6 mp bat
+[20:29:07] <TymGiu> [20:29:05] Partie avec Darckzander terminée ; votre score : 7 mkc elem bat
+
+// Surveillé par Tae-Ju
+[20:33:52] <TymGiu> [20:33:45] Partie avec juju777 terminée ; votre score : 4 id + alea
+[20:38:38] <TymGiu> [20:38:30] Partie avec juju777 terminée ; votre score : 5 mm ma elem
+[20:41:59] <TymGiu> [20:41:55] Partie avec juju777 terminée ; votre score : 6 mp id + alea
+[20:46:46] <TymGiu> [20:46:44] Partie avec juju777 terminée ; votre score : 6 mp bat
+[20:51:42] <TymGiu> [20:51:39] Partie avec juju777 terminée ; votre score : 6 mkc elem bat
+
+// Surveillé par Tae-Ju
+[20:47:50] <Huey> [18:47:38] Partie avec Darckzander terminée ; votre score : 6 r
+[20:51:50] <Huey> [18:51:40] Partie avec Darckzander terminée ; votre score : 4 o
+[20:57:03] <Huey> [18:56:52] Partie avec Darckzander terminée ; votre score : 6 b
+[21:02:07] <Huey> [19:01:59] Partie avec Darckzander terminée ; votre score : 5 v
+[21:10:21] <Huey> [19:10:14] Partie avec Darckzander terminée ; votre score : 6 j
 
 
+yamete kudasai
+
+// Surveillé par SquonK
+[21:20:11] <Hades> [21:20:11] Partie avec Prince_of_Persia terminée ; votre score : 5 id + alea
+[21:21:44] <Hades> [21:21:44] Partie avec Prince_of_Persia terminée ; votre score : 4 mm ma elem
+[21:23:55] <Hades> [21:23:53] Partie avec Prince_of_Persia terminée ; votre score : 6 mp id+ alea
+
+[21:20:11] <Prince_of_Persia> [21:20:04] Partie avec Hades terminée ; votre score : 5 r
+[21:21:47] <Prince_of_Persia> [21:21:38] Partie avec Hades terminée ; votre score : 6 mm ma élém
+[21:23:58] <Prince_of_Persia> [21:23:44] Partie avec Hades terminée ; votre score : 4 mp + = aléa
+
+
+
+// Surveillé par SquonK
+[21:21:59] <Darckzander> [21:22:00] Partie avec juju777 terminée ; votre score : 4 r
+
+[21:21:52] <juju777> [21:21:45] Partie avec Darckzander terminée ; votre score : 6 r
+
+
+
+// Surveillé par SquonK
 
 
 

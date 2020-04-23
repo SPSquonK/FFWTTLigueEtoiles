@@ -11,11 +11,12 @@ rules = OrderedDict()
 rules["+ ="] = ("red", "+ = alea")
 rules["mm ma"] = ("orange", "mm ma elem")
 rules["mp + ="] = ("blue", "mp + = alea")
-rules["mp"] = ("darkgreen", "mp bat")
-rules["mkc"] = ("olive", "mkc elem bat")
+rules["mp"] = ("green", "mp bat")
+rules["mkc"] = ("#d4c300", "mkc elem bat")
 
 
 is_reading_players = True
+stop = False
 
 def find_player(player_name):
     if player_name in list_of_other_names:
@@ -107,6 +108,11 @@ with open("input.txt", encoding="utf-8") as f:
         if line is None or len(line) == 0:
             continue
         if line[0:2] == "//":
+            continue
+        if line == "yamete kudasai" or line == "stop":
+            stop = True
+            continue
+        if stop:
             continue
 
         if line == "-- Players --":
@@ -249,7 +255,7 @@ def get_rule_header2():
             first = False
         else:
             s+= "<th></th>"
-        s += "<th>Player</th>"
+        s += "<th>Joueur</th>"
         s += "<th>Points</th>"
     s += "</tr>"
     return s
@@ -280,6 +286,9 @@ for i in range(len(list_of_players)):
         
         p_name = rankings[rule][i]
         s += "<td>" + p_name + "</td><td>" + str(list_of_players[p_name]["ranking"][rule]["score"]) + "</td>"
+
+        list_of_players[p_name]["ranking"][rule]["rank"] = i + 1
+
     s += "</tr>"
 
     print(s)
@@ -309,6 +318,8 @@ for player_name in list_of_players:
     for rule in rules:
         list_of_players[player_name]["final_rank"] -= rankings[rule].index(player_name)
 
+        list_of_players[player_name]["ranking"][rule]["pts"] = len(list_of_players) - rankings[rule].index(player_name)
+
     player_global_ranking.append(player_name)
 
 def global_rank_key(player_name):
@@ -324,12 +335,32 @@ print()
 print()
 print()
 print()
-print('<center><table class="wikitable" border="1" style="text-align: center; width: 40%">')
-print("<tr><th>Position</th><th>Nom</th><th>Points de classement</th></tr>")
+print('<center><table class="wikitable" border="1" style="text-align: center;">')
+
+if True:
+    s = "<tr><th>Position</th><th>Nom</th><th>Points de classement</th><th></th>"
+    for rule in rules:
+        s += "<th>Rang " + rules[rule][1] + "</th>"
+    
+    s += "</tr>"
+    print(s) 
+
 
 
 for (i, player_name) in enumerate(player_global_ranking):
-    s = "<tr><th>" + str(i + 1) + "</th><td>" + player_name + "</td><td>" + str(list_of_players[player_name]["final_rank"]) + "</td></tr>"
+    s = "<tr><th>" + str(i + 1) + "</th><td>" + player_name + "</td><td>" + str(list_of_players[player_name]["final_rank"]) + "</td><th></th>"
+
+    for rule in rules:
+        r = str(list_of_players[player_name]["ranking"][rule]["rank"])
+
+        if r == "1":
+            r = "1er"
+        else:
+            r = r + "ème"
+
+        s += "<td>" + r + " (+" + str(list_of_players[player_name]["ranking"][rule]["pts"]) + ")</td>"
+
+    s += "</tr>"
     print(s)
 
 print('</table></center>')
