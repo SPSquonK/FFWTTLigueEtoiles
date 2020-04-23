@@ -3,15 +3,17 @@
 ClaXus Jecht Nomi_Marks Kefka_Palazzo
 Darckzander Aldiabloss Bluetooth _Soul_reaper_
 Didier_Raoult
+DjaM
 f4rmeur_f0u Prince_of_Persia Xenmas
 Garuda Jessyca_Wilson Scarlett_Johansson Mina_Sauvage
 Gregsto11
 Huey -Sucette- PhuteMegre
-Inoubliable-Squall Sweeney
+juju777
 Locke Lockounet
 Marluxia Zell
-Redsox Redou Horizz EnTTraineur
+Redsox Redou Horizz EnTTraineur Redsox_Dispo
 SquonK Shiho PsY
+Sweeney Inoubliable-Squall
 Tae-Ju Zack Tae
 TymGiu Hades
 zlogjzeigfzgjpzeige MLogan
@@ -40,3 +42,47 @@ _Jagged_Edge_
 [11:11:23] <_Jagged_Edge_> [11:11:09] Partie avec Tae-Ju terminée ; votre score : 7 b
 [11:15:08] <_Jagged_Edge_> [11:14:55] Partie avec Tae-Ju terminée ; votre score : 5 v
 [11:18:39] <_Jagged_Edge_> [11:18:27] Partie avec Tae-Ju terminée ; votre score : 5 j
+
+// Surveillé par Tae-Ju
+[13:07:25] <Hades> [13:07:19] Partie avec Gregsto11 terminée ; votre score : 6 + = alea
+[13:12:56] <Hades> [13:12:54] Partie avec Gregsto11 terminée ; votre score : 6 mm ma elem
+[13:17:08] <Hades> [13:16:59] Partie avec Gregsto11 terminée ; votre score : 5 mp id + alea
+[13:22:33] <Hades> [13:22:29] Partie avec Gregsto11 terminée ; votre score : 6 mp bat
+[13:27:44] <Hades> [13:27:41] Partie avec Gregsto11 terminée ; votre score : 7 mkc elem bat
+
+// Surveillé par Tae-Ju
+[13:34:21] <Hades> [13:34:14] Partie avec Didier_Raoult terminée ; votre score : 5 + = alea
+[13:38:14] <Hades> [13:38:10] Partie avec Didier_Raoult terminée ; votre score : 4 mm ma elem
+[13:41:19] <Hades> [13:41:13] Partie avec Didier_Raoult terminée ; votre score : 3 mp id + alea
+[13:45:35] <Hades> [13:45:31] Partie avec Didier_Raoult terminée ; votre score : 5 mp bat
+[13:51:06] <Hades> [13:50:58] Partie avec Didier_Raoult terminée ; votre score : 3 mkc elem bat
+
+// Surveillé par Tae-Ju
+[13:30:57] <Didier_Raoult> [13:30:39] Partie avec Redsox_Dispo terminée ; votre score : 4 +=ALEA
+[13:36:40] <Didier_Raoult> [13:36:28] Partie avec Redsox_Dispo terminée ; votre score : 4 MM MA ELEM
+[13:43:31] <Didier_Raoult> [13:43:08] Partie avec Redsox_Dispo terminée ; votre score : 7 MP += ALEA
+[13:45:56] <Didier_Raoult> [13:45:44] Partie avec Redsox_Dispo terminée ; votre score : 5 MP BAT
+[13:55:37] <Didier_Raoult> [13:55:17] Partie avec Redsox_Dispo terminée ; votre score : 5 MKC BAT ELEM
+
+// Surveillé par Tae-Ju
+[14:15:09] <Hades> [14:15:02] Partie avec Sweeney terminée ; votre score : 5 = + alea
+[14:19:06] <Hades> [14:19:03] Partie avec Sweeney terminée ; votre score : 5 mm ma elem
+[14:23:04] <Hades> [14:22:56] Partie avec Sweeney terminée ; votre score : 5 mp id + alea
+[14:28:18] <Hades> [14:28:15] Partie avec Sweeney terminée ; votre score : 5 mp bat
+[14:33:47] <Hades> [14:33:43] Partie avec Sweeney terminée ; votre score : 7 mkc elem bat
+
+// Surveillé par Tae-Ju
+[14:55:33] <TymGiu> [14:55:25] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 3 id + alea
+[14:59:16] <TymGiu> [14:59:09] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 5 mm ma elem
+[15:03:06] <TymGiu> [15:03:02] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 5 mp id + alea
+[15:08:10] <TymGiu> [15:08:05] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 3 mp bat
+[15:14:33] <TymGiu> [15:14:29] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 5 mkc elem bat
+
+// Surveillé par Tae-Ju
+[16:26:34] <zlogjzeigfzgjpzeige> [16:26:22] Partie avec PhuteMegre terminée ; votre score : 5 r
+[16:35:05] <zlogjzeigfzgjpzeige> [16:34:50] Partie avec PhuteMegre terminée ; votre score : 3 o
+[16:40:06] <zlogjzeigfzgjpzeige> [16:39:57] Partie avec PhuteMegre terminée ; votre score : 5 b
+[16:49:23] <zlogjzeigfzgjpzeige> [16:48:55] Partie avec PhuteMegre terminée ; votre score : 4 v
+[17:03:26] <zlogjzeigfzgjpzeige> [17:03:18] Partie avec PhuteMegre terminée ; votre score : 5 j
+
+

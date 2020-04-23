@@ -12,7 +12,7 @@ rules["+ ="] = ("red", "+ = alea")
 rules["mm ma"] = ("orange", "mm ma elem")
 rules["mp + ="] = ("blue", "mp + = alea")
 rules["mp"] = ("darkgreen", "mp bat")
-rules["mkc"] = ("darkyellow", "mkc elem bat")
+rules["mkc"] = ("olive", "mkc elem bat")
 
 
 is_reading_players = True
