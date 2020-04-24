@@ -281,5 +281,11 @@ _Jagged_Edge_
 [17:01:30] <SquonK> [17:01:22] Partie avec Darckzander terminée ; votre score : 5 v
 [17:06:08] <SquonK> [17:05:59] Partie avec Darckzander terminée ; votre score : 6 j
 
+// Surveillé par Omicron2
+[17:01:20] <Tae-Ju> [17:01:11] Partie avec Gregsto11 terminée ; votre score : 6 r
+[17:07:27] <Tae-Ju> [17:07:18] Partie avec Gregsto11 terminée ; votre score : 6 o
+[17:14:32] <Tae-Ju> [17:14:23] Partie avec Gregsto11 terminée ; votre score : 6 b
+[17:19:15] <Tae-Ju> [17:19:04] Partie avec Gregsto11 terminée ; votre score : 6 v
+[17:22:02] <Tae-Ju> [17:21:43] Partie avec Gregsto11 terminée ; votre score : 7 j
 
 yamete kudasai
