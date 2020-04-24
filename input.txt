@@ -342,5 +342,14 @@ _Jagged_Edge_
 [21:51:35] <Redsox> [21:51:03] Partie avec PhuteMegre terminée ; votre score : 5 mp bat
 [22:02:03] <Redsox> [22:01:52] Partie avec PhuteMegre terminée ; votre score : 6 mkc elem bat
 
+// Surveillé par SquonK
+[21:28:00] <SquonK> [21:27:53] Partie avec ClaXus terminée ; votre score : 1 + = alea
+[21:36:08] <SquonK> [21:36:03] Partie avec ClaXus terminée ; votre score : 6 mm ma
+[21:40:48] <SquonK> [21:40:43] Partie avec ClaXus terminée ; votre score : 7 mp + =
+[21:46:48] <SquonK> [21:46:42] Partie avec ClaXus terminée ; votre score : 6 mp
+[21:52:55] <SquonK> [21:52:28] Partie avec ClaXus terminée ; votre score : 5 mkc
+
+
+
 
 yamete kudasai
