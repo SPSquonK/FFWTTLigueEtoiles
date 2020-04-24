@@ -44,7 +44,7 @@ def convert_rule(rule_str):
         return rule_str.find(s) != -1
 
     has_mp = has("mp") or has("vert") or has("bleu")
-    has_plus = has("+") or has("rouge") or has("bleu")
+    has_plus = has("+") or has("rouge") or has("bleu") or has("plus")
     has_mkc = has("mkc") or has("mc") or has("jaune")
     has_mm = has("mm") or has("orange")
 
