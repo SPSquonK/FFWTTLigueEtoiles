@@ -253,7 +253,25 @@ _Jagged_Edge_
 [14:18:18] <Redsox_Dispo> [14:18:00] Partie avec TymGiu terminée ; votre score : 5 v
 [14:23:23] <Redsox_Dispo> [14:23:15] Partie avec TymGiu terminée ; votre score : 5 j
 
+// Surveillé par Omicron2
+[15:14:26] <juju777> [15:14:01] Partie avec ClaXus terminée ; votre score : 2 r
+[15:26:25] <juju777> [15:26:12] Partie avec ClaXus terminée ; votre score : 6 o
+[15:32:56] <juju777> [15:32:37] Partie avec ClaXus terminée ; votre score : 4 b
+[16:00:55] <juju777> [16:00:37] Partie avec ClaXus terminée ; votre score : 5 v
+[16:09:06] <juju777> [16:08:38] Partie avec ClaXus terminée ; votre score : 4 j
 
+// Surveillé par Omicron2
+[16:22:02] <SquonK> [16:21:53] Partie avec Huey terminée ; votre score : 5 r
+[16:26:44] <SquonK> [16:26:32] Partie avec Huey terminée ; votre score : 6 o
+[16:30:52] <SquonK> [16:30:44] Partie avec Huey terminée ; votre score : 5 b
+[16:34:39] <SquonK> [16:34:28] Partie avec Huey terminée ; votre score : 5 v
+[16:42:54] <SquonK> [16:42:35] Partie avec Huey terminée ; votre score : 5 j
 
+// Surveillé par Omicron2
+[16:27:05] <ClaXus> [16:26:53] Partie avec Darckzander terminée ; votre score : 5 r
+[16:31:23] <ClaXus> [16:31:06] Partie avec Darckzander terminée ; votre score : 5 o
+[16:36:27] <ClaXus> [16:36:19] Partie avec Darckzander terminée ; votre score : 6 b
+[16:42:49] <ClaXus> [16:42:21] Partie avec Darckzander terminée ; votre score : 6 v
+[16:48:29] <ClaXus> [16:48:13] Partie avec Darckzander terminée ; votre score : 6 j
 
 yamete kudasai
