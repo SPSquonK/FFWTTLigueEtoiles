@@ -356,6 +356,13 @@ _Jagged_Edge_
 [23:17:51] <SquonK> [23:17:46] Partie avec Marluxia terminée ; votre score : 5 mp bat
 [23:21:46] <SquonK> [23:21:39] Partie avec Marluxia terminée ; votre score : 5 mkc
 
+// Surveillé par Omicron2
+[23:48:18] <PhuteMegre> [21:48:08] Partie avec DjaM terminée ; votre score : 6 r
+[23:57:11] <PhuteMegre> [21:56:59] Partie avec DjaM terminée ; votre score : 5 o
+[00:05:44] <PhuteMegre> [22:05:37] Partie avec DjaM terminée ; votre score : 6 b
+[00:15:50] <PhuteMegre> [22:15:42] Partie avec DjaM terminée ; votre score : 6 v
+[00:21:50] <PhuteMegre> [22:21:42] Partie avec DjaM terminée ; votre score : 4 j
+
 
 
 
