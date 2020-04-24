@@ -328,6 +328,12 @@ _Jagged_Edge_
 [18:46:55] <SquonK> [18:46:50] Partie avec TymGiu terminée ; votre score : 4 mkc elem
 [18:46:56] <TymGiu> [18:47:01] Partie avec SquonK terminée ; votre score : 6 mkc elem bat
 
+// Surveillé par Omicron2
+[19:16:35] <Marluxia> [18:12:11] Partie avec Huey terminée ; votre score : 8 Alea +=
+[19:22:17] <Marluxia> [18:21:54] Partie avec Huey terminée ; votre score : 3 mm ma élé
+[19:30:19] <Marluxia> [18:30:08] Partie avec Huey terminée ; votre score : 3 Alea mp +=
+[19:39:55] <Marluxia> [18:39:23] Partie avec Huey terminée ; votre score : 6 MP bat
+[19:45:36] <Marluxia> [18:45:19] Partie avec Huey terminée ; votre score : 4 Mkc bat élé
 
 
 yamete kudasai
