@@ -309,4 +309,11 @@ _Jagged_Edge_
 [18:27:37] <Huey> [16:27:27] Partie avec f4rmeur_f0u terminée ; votre score : 5 v
 [18:30:02] <Huey> [16:29:55] Partie avec f4rmeur_f0u terminée ; votre score : 3 j
 
+// Surveillé par ClaXus
+[17:03:27] <Tae-Ju> [17:02:41] Partie avec ClaXus terminée ; votre score : 4 r
+[17:17:50] <Tae-Ju> [17:17:14] Partie avec ClaXus terminée ; votre score : 5 o
+[17:23:03] <Tae-Ju> [17:22:44] Partie avec ClaXus terminée ; votre score : 7 b
+[17:26:43] <Tae-Ju> [17:26:30] Partie avec ClaXus terminée ; votre score : 5 v
+[17:32:34] <Tae-Ju> [17:32:08] Partie avec ClaXus terminée ; votre score : 5 j
+
 yamete kudasai
