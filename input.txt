@@ -288,4 +288,11 @@ _Jagged_Edge_
 [17:19:15] <Tae-Ju> [17:19:04] Partie avec Gregsto11 terminée ; votre score : 6 v
 [17:22:02] <Tae-Ju> [17:21:43] Partie avec Gregsto11 terminée ; votre score : 7 j
 
+// Surveillé par Omicron2
+[17:31:00] <Gregsto11> [17:30:41] Partie avec Huey terminée ; votre score : 5 r
+[17:36:51] <Gregsto11> [17:36:17] Partie avec Huey terminée ; votre score : 1 o
+[17:44:24] <Gregsto11> [17:43:58] Partie avec Huey terminée ; votre score : 3 b
+[17:49:13] <Gregsto11> [17:48:55] Partie avec Huey terminée ; votre score : 2 v
+[17:55:59] <Gregsto11> [17:55:23] Partie avec Huey terminée ; votre score : 2 j
+
 yamete kudasai
