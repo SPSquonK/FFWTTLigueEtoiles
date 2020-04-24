@@ -302,4 +302,11 @@ _Jagged_Edge_
 [18:13:22] <SquonK> [18:12:59] Partie avec f4rmeur_f0u terminée ; votre score : 6 mp bat
 [18:23:23] <SquonK> [18:22:58] Partie avec f4rmeur_f0u terminée ; votre score : 6 mkc
 
+// Surveillé par Omicron2
+[18:12:30] <Huey> [16:12:16] Partie avec f4rmeur_f0u terminée ; votre score : 4 r
+[18:17:32] <Huey> [16:17:22] Partie avec f4rmeur_f0u terminée ; votre score : 3 o
+[18:23:52] <Huey> [16:23:43] Partie avec f4rmeur_f0u terminée ; votre score : 4 b
+[18:27:37] <Huey> [16:27:27] Partie avec f4rmeur_f0u terminée ; votre score : 5 v
+[18:30:02] <Huey> [16:29:55] Partie avec f4rmeur_f0u terminée ; votre score : 3 j
+
 yamete kudasai
