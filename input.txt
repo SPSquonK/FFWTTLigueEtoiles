@@ -141,27 +141,119 @@ _Jagged_Edge_
 [21:10:21] <Huey> [19:10:14] Partie avec Darckzander terminée ; votre score : 6 j
 
 
-yamete kudasai
+
 
 // Surveillé par SquonK
 [21:20:11] <Hades> [21:20:11] Partie avec Prince_of_Persia terminée ; votre score : 5 id + alea
 [21:21:44] <Hades> [21:21:44] Partie avec Prince_of_Persia terminée ; votre score : 4 mm ma elem
 [21:23:55] <Hades> [21:23:53] Partie avec Prince_of_Persia terminée ; votre score : 6 mp id+ alea
+[21:26:26] <Hades> [21:26:25] Partie avec Prince_of_Persia terminée ; votre score : 5 mp bat
+[21:29:49] <Hades> [21:29:46] Partie avec Prince_of_Persia terminée ; votre score : 6 mkc elem bat
 
 [21:20:11] <Prince_of_Persia> [21:20:04] Partie avec Hades terminée ; votre score : 5 r
 [21:21:47] <Prince_of_Persia> [21:21:38] Partie avec Hades terminée ; votre score : 6 mm ma élém
 [21:23:58] <Prince_of_Persia> [21:23:44] Partie avec Hades terminée ; votre score : 4 mp + = aléa
-
+[21:26:24] <Prince_of_Persia> [21:26:18] Partie avec Hades terminée ; votre score : 5 mp bat
+[21:29:45] <Prince_of_Persia> [21:29:38] Partie avec Hades terminée ; votre score : 4 mkc élém bat
 
 
 // Surveillé par SquonK
-[21:21:59] <Darckzander> [21:22:00] Partie avec juju777 terminée ; votre score : 4 r
-
 [21:21:52] <juju777> [21:21:45] Partie avec Darckzander terminée ; votre score : 6 r
+[21:27:27] <juju777> [21:27:06] Partie avec Darckzander terminée ; votre score : 4 : mm ma elem
+[21:31:33] <juju777> [21:31:12] Partie avec Darckzander terminée ; votre score : 9 : mp + = alea
+[21:39:00] <juju777> [21:38:47] Partie avec Darckzander terminée ; votre score : 5  mp bat
+[21:44:40] <juju777> [21:44:23] Partie avec Darckzander terminée ; votre score : 6 mkc elem bat
+
+[21:21:59] <Darckzander> [21:22:00] Partie avec juju777 terminée ; votre score : 4 r
+[21:27:19] <Darckzander> [21:27:21] Partie avec juju777 terminée ; votre score : 6 o
+[21:31:24] <Darckzander> [21:31:27] Partie avec juju777 terminée ; votre score : 1 b
+[21:38:55] <Darckzander> [21:39:02] Partie avec juju777 terminée ; votre score : 5 v
+[21:44:51] <Darckzander> [21:44:38] Partie avec juju777 terminée ; votre score : 4 j
 
 
 
 // Surveillé par SquonK
+[21:28:17] <Hades> [21:28:18] Partie avec Marluxia terminée ; votre score : 3 id + alea
+[21:32:06] <Hades> [21:32:04] Partie avec Marluxia terminée ; votre score : 5 mm ma elem
+[21:35:17] <Hades> [21:35:14] Partie avec Marluxia terminée ; votre score : 9 mp id + alea
+[21:39:06] <Hades> [21:38:59] Partie avec Marluxia terminée ; votre score : 5 mp bat
+[21:44:06] <Hades> [21:43:45] Partie avec Marluxia terminée ; votre score : 4 mkc elem bat
+
+[21:28:37] <Marluxia> [20:28:15] Partie avec Hades terminée ; votre score : 7 r
+[21:32:14] <Marluxia> [20:32:00] Partie avec Hades terminée ; votre score : 5 Mm ma elem
+[21:35:29] <Marluxia> [20:35:09] Partie avec Hades terminée ; votre score : 1 Alea mp +=
+[21:39:17] <Marluxia> [20:38:54] Partie avec Hades terminée ; votre score : 5 MP bat
+[21:44:00] <Marluxia> [20:43:41] Partie avec Hades terminée ; votre score : 6 Mkc elem bat
+
+// Surveillé par SquonK
+[21:52:08] <Didier_Raoult> [21:51:57] Partie avec juju777 terminée ; votre score : 6 +=ALEA
+[21:59:18] <Didier_Raoult> [21:59:09] Partie avec juju777 terminée ; votre score : 6 MM MA ALEM
+[22:04:36] <Didier_Raoult> [22:04:23] Partie avec juju777 terminée ; votre score : 5 mp+=alea
+[22:09:26] <Didier_Raoult> [22:09:05] Partie avec juju777 terminée ; votre score : 5  MP BAT
+[22:17:00] <Didier_Raoult> [22:16:51] Partie avec juju777 terminée ; votre score : 4  MKC BAT ELE
+
+[21:52:13] <juju777> [21:51:59] Partie avec Didier_Raoult terminée ; votre score : 4 alea + =
+[21:59:27] <juju777> [21:59:10] Partie avec Didier_Raoult terminée ; votre score : 4 mm ma elem
+[22:04:37] <juju777> [22:04:24] Partie avec Didier_Raoult terminée ; votre score : 5  alea + = mp
+[22:09:41] <juju777> [22:09:06] Partie avec Didier_Raoult terminée ; votre score : 5 mp bat
+[22:17:23] <juju777> [22:16:52] Partie avec Didier_Raoult terminée ; votre score : 6  mkc elem bat
+
+
+// Surveillé par _Jagged_Edge_
+[00:00:00] <_Jagged_Edge_> [08:34:56] Partie avec Gregsto11 terminée ; votre score : 5 + = alea
+[08:35:06] <Gregsto11> [08:34:57] Partie avec _Jagged_Edge_ terminée ; votre score : 5 + = alea
+[00:00:00] <_Jagged_Edge_> [08:39:31] Partie avec Gregsto11 terminée ; votre score : 9 Mm ma élé
+[08:39:48] <Gregsto11> [08:39:32] Partie avec _Jagged_Edge_ terminée ; votre score : 1 Mm ma élé
+[00:00:00] <_Jagged_Edge_> [08:46:08] Partie avec Gregsto11 terminée ; votre score : 5 MP += aléa
+[08:46:19] <Gregsto11> [08:46:10] Partie avec _Jagged_Edge_ terminée ; votre score : 5 MP += aléa
+[00:00:00] <_Jagged_Edge_> [08:50:28] Partie avec Gregsto11 terminée ; votre score : 8 MP Bat
+[08:50:37] <Gregsto11> [08:50:27] Partie avec _Jagged_Edge_ terminée ; votre score : 2 MP Bat
+[00:00:00] <_Jagged_Edge_> [08:57:10] Partie avec Gregsto11 terminée ; votre score : 6 MKC BAT élé
+[08:57:23] <Gregsto11> [08:57:12] Partie avec _Jagged_Edge_ terminée ; votre score : 4 MKC BAT élé
+
+// Surveillé par Omicron2
+[10:46:47] <_Jagged_Edge_> [10:46:27] Partie avec juju777 terminée ; votre score : 5 alea +=
+[10:51:59] <_Jagged_Edge_> [10:51:39] Partie avec juju777 terminée ; votre score : 4 mm ma élé
+[10:57:20] <_Jagged_Edge_> [10:56:57] Partie avec juju777 terminée ; votre score : 6 MP += alea
+[11:01:21] <_Jagged_Edge_> [11:00:59] Partie avec juju777 terminée ; votre score : 6 MP BAT
+[11:06:46] <_Jagged_Edge_> [11:06:33] Partie avec juju777 terminée ; votre score : 6 mkc bat
+
+// Surveillé par Omicron2
+[11:35:27] <Tae-Ju> [11:34:58] Partie avec juju777 terminée ; votre score : 4 r
+[11:40:41] <Tae-Ju> [11:40:31] Partie avec juju777 terminée ; votre score : 4 o
+[11:51:08] <Tae-Ju> [11:46:50] Partie avec juju777 terminée ; votre score : 4 b
+[11:51:14] <Tae-Ju> [11:50:36] Partie avec juju777 terminée ; votre score : 5 v
+[11:58:39] <Tae-Ju> [11:58:19] Partie avec juju777 terminée ; votre score : 4 j
+
+// Surveillé par Omicron2
+[12:08:35] <PhuteMegre> [10:08:26] Partie avec juju777 terminée ; votre score : 5 r
+[12:15:17] <PhuteMegre> [10:15:09] Partie avec juju777 terminée ; votre score : 6 o
+[12:22:43] <PhuteMegre> [10:22:35] Partie avec juju777 terminée ; votre score : 5 b
+[12:33:51] <PhuteMegre> [10:33:45] Partie avec juju777 terminée ; votre score : 5 v
+[12:41:58] <PhuteMegre> [10:41:48] Partie avec juju777 terminée ; votre score : 6 j
+
+// Surveillé par Omicron2
+[13:16:59] <TymGiu> [13:17:00] Partie avec PhuteMegre terminée ; votre score : 8 r
+[13:21:29] <TymGiu> [13:21:26] Partie avec PhuteMegre terminée ; votre score : 4 o
+[13:26:29] <TymGiu> [13:26:27] Partie avec PhuteMegre terminée ; votre score : 4 b
+[13:34:01] <TymGiu> [13:33:47] Partie avec PhuteMegre terminée ; votre score : 5 v
+[13:46:06] <TymGiu> [13:46:07] Partie avec PhuteMegre terminée ; votre score : 6 j
+
+// Surveillé par Omicron2
+[13:09:36] <Didier_Raoult> [13:09:24] Partie avec PhuteMegre terminée ; votre score : 7 r
+[13:09:36] <Didier_Raoult> [13:09:24] Partie avec PhuteMegre terminée ; votre score : 8 o
+[13:20:28] <Didier_Raoult> [13:20:14] Partie avec PhuteMegre terminée ; votre score : 7 b
+[13:29:49] <Didier_Raoult> [13:29:33] Partie avec PhuteMegre terminée ; votre score : 5 v
+[13:41:02] <Didier_Raoult> [13:40:48] Partie avec PhuteMegre terminée ; votre score : 5 j
+
+// Surveillé par Omicron2
+[13:51:39] <Redsox_Dispo> [13:51:21] Partie avec TymGiu terminée ; votre score : 6 r
+[13:56:07] <Redsox_Dispo> [13:55:53] Partie avec TymGiu terminée ; votre score : 4 o
+[14:01:34] <Redsox_Dispo> [14:00:40] Partie avec TymGiu terminée ; votre score : 6 b
+[14:18:18] <Redsox_Dispo> [14:18:00] Partie avec TymGiu terminée ; votre score : 5 v
+[14:23:23] <Redsox_Dispo> [14:23:15] Partie avec TymGiu terminée ; votre score : 5 j
 
 
 
+
+yamete kudasai
