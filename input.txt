@@ -261,18 +261,18 @@ _Jagged_Edge_
 [16:09:06] <juju777> [16:08:38] Partie avec ClaXus terminée ; votre score : 4 j
 
 // Surveillé par Omicron2
-[16:22:02] <SquonK> [16:21:53] Partie avec Huey terminée ; votre score : 5 r
-[16:26:44] <SquonK> [16:26:32] Partie avec Huey terminée ; votre score : 6 o
-[16:30:52] <SquonK> [16:30:44] Partie avec Huey terminée ; votre score : 5 b
-[16:34:39] <SquonK> [16:34:28] Partie avec Huey terminée ; votre score : 5 v
-[16:42:54] <SquonK> [16:42:35] Partie avec Huey terminée ; votre score : 5 j
-
-// Surveillé par Omicron2
 [16:27:05] <ClaXus> [16:26:53] Partie avec Darckzander terminée ; votre score : 5 r
 [16:31:23] <ClaXus> [16:31:06] Partie avec Darckzander terminée ; votre score : 5 o
 [16:36:27] <ClaXus> [16:36:19] Partie avec Darckzander terminée ; votre score : 6 b
 [16:42:49] <ClaXus> [16:42:21] Partie avec Darckzander terminée ; votre score : 6 v
 [16:48:29] <ClaXus> [16:48:13] Partie avec Darckzander terminée ; votre score : 6 j
+
+// Surveillé par ClaXus
+[17:03:27] <Tae-Ju> [17:02:41] Partie avec ClaXus terminée ; votre score : 4 r
+[17:17:50] <Tae-Ju> [17:17:14] Partie avec ClaXus terminée ; votre score : 5 o
+[17:23:03] <Tae-Ju> [17:22:44] Partie avec ClaXus terminée ; votre score : 7 b
+[17:26:43] <Tae-Ju> [17:26:30] Partie avec ClaXus terminée ; votre score : 5 v
+[17:32:34] <Tae-Ju> [17:32:08] Partie avec ClaXus terminée ; votre score : 5 j
 
 // Surveillé par Omicron2
 [16:53:01] <SquonK> [16:52:53] Partie avec Darckzander terminée ; votre score : 6 r
@@ -280,6 +280,13 @@ _Jagged_Edge_
 [16:58:49] <SquonK> [16:58:39] Partie avec Darckzander terminée ; votre score : 6 b
 [17:01:30] <SquonK> [17:01:22] Partie avec Darckzander terminée ; votre score : 5 v
 [17:06:08] <SquonK> [17:05:59] Partie avec Darckzander terminée ; votre score : 6 j
+
+// Surveillé par Omicron2
+[16:22:02] <SquonK> [16:21:53] Partie avec Huey terminée ; votre score : 5 r
+[16:26:44] <SquonK> [16:26:32] Partie avec Huey terminée ; votre score : 6 o
+[16:30:52] <SquonK> [16:30:44] Partie avec Huey terminée ; votre score : 5 b
+[16:34:39] <SquonK> [16:34:28] Partie avec Huey terminée ; votre score : 5 v
+[16:42:54] <SquonK> [16:42:35] Partie avec Huey terminée ; votre score : 5 j
 
 // Surveillé par Omicron2
 [17:01:20] <Tae-Ju> [17:01:11] Partie avec Gregsto11 terminée ; votre score : 6 r
@@ -309,11 +316,18 @@ _Jagged_Edge_
 [18:27:37] <Huey> [16:27:27] Partie avec f4rmeur_f0u terminée ; votre score : 5 v
 [18:30:02] <Huey> [16:29:55] Partie avec f4rmeur_f0u terminée ; votre score : 3 j
 
-// Surveillé par ClaXus
-[17:03:27] <Tae-Ju> [17:02:41] Partie avec ClaXus terminée ; votre score : 4 r
-[17:17:50] <Tae-Ju> [17:17:14] Partie avec ClaXus terminée ; votre score : 5 o
-[17:23:03] <Tae-Ju> [17:22:44] Partie avec ClaXus terminée ; votre score : 7 b
-[17:26:43] <Tae-Ju> [17:26:30] Partie avec ClaXus terminée ; votre score : 5 v
-[17:32:34] <Tae-Ju> [17:32:08] Partie avec ClaXus terminée ; votre score : 5 j
+// Surveillé par SquonK
+[18:27:50] <SquonK> [18:27:44] Partie avec TymGiu terminée ; votre score : 3 + = alea
+[18:27:51] <TymGiu> [18:27:55] Partie avec SquonK terminée ; votre score : 7 id + alea
+[18:32:33] <SquonK> [18:32:29] Partie avec TymGiu terminée ; votre score : 2 mm ma
+[18:32:36] <TymGiu> [18:32:38] Partie avec SquonK terminée ; votre score : 8 mm ma elem
+[18:37:02] <SquonK> [18:36:54] Partie avec TymGiu terminée ; votre score : 8 mp + =
+[18:37:03] <TymGiu> [18:37:04] Partie avec SquonK terminée ; votre score : 2 mp id + alea
+[18:42:17] <TymGiu> [18:42:21] Partie avec SquonK terminée ; votre score : 5 mp bat
+[18:42:21] <SquonK> [18:42:12] Partie avec TymGiu terminée ; votre score : 5 (mp)
+[18:46:55] <SquonK> [18:46:50] Partie avec TymGiu terminée ; votre score : 4 mkc elem
+[18:46:56] <TymGiu> [18:47:01] Partie avec SquonK terminée ; votre score : 6 mkc elem bat
+
+
 
 yamete kudasai
