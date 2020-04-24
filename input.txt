@@ -335,5 +335,12 @@ _Jagged_Edge_
 [19:39:55] <Marluxia> [18:39:23] Partie avec Huey terminée ; votre score : 6 MP bat
 [19:45:36] <Marluxia> [18:45:19] Partie avec Huey terminée ; votre score : 4 Mkc bat élé
 
+// Surveillé par Omicron2
+[21:31:05] <Redsox> [21:30:17] Partie avec PhuteMegre terminée ; votre score : 9 id + alea
+[21:39:55] <Redsox> [21:38:38] Partie avec PhuteMegre terminée ; votre score : 7 mm ma elem
+[21:46:28] <Redsox> [21:46:15] Partie avec PhuteMegre terminée ; votre score : 6 mp id +alea
+[21:51:35] <Redsox> [21:51:03] Partie avec PhuteMegre terminée ; votre score : 5 mp bat
+[22:02:03] <Redsox> [22:01:52] Partie avec PhuteMegre terminée ; votre score : 6 mkc elem bat
+
 
 yamete kudasai
