@@ -425,4 +425,11 @@ _Jagged_Edge_
 [15:00:39] <Redsox> [15:00:20] Partie avec Gregsto11 terminée ; votre score : 6 mp
 [15:06:54] <Redsox> [15:06:46] Partie avec Gregsto11 terminée ; votre score : 7 mkc
 
+// Surveillé par Omicron2
+[15:08:29] <Garuda> [15:08:17] Partie avec PhuteMegre terminée ; votre score : 4 r
+[15:14:45] <Garuda> [15:14:30] Partie avec PhuteMegre terminée ; votre score : 5 o
+[15:19:57] <Garuda> [15:19:44] Partie avec PhuteMegre terminée ; votre score : 1 b
+[15:27:21] <Garuda> [15:27:05] Partie avec PhuteMegre terminée ; votre score : 5 v
+[15:36:19] <Garuda> [15:36:04] Partie avec PhuteMegre terminée ; votre score : 4 j
+
 yamete kudasai
