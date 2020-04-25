@@ -316,7 +316,7 @@ _Jagged_Edge_
 [18:27:37] <Huey> [16:27:27] Partie avec f4rmeur_f0u terminée ; votre score : 5 v
 [18:30:02] <Huey> [16:29:55] Partie avec f4rmeur_f0u terminée ; votre score : 3 j
 
-// Surveillé par SquonK
+// Surveillé par SquonK (59)
 [18:27:50] <SquonK> [18:27:44] Partie avec TymGiu terminée ; votre score : 3 + = alea
 [18:27:51] <TymGiu> [18:27:55] Partie avec SquonK terminée ; votre score : 7 id + alea
 [18:32:33] <SquonK> [18:32:29] Partie avec TymGiu terminée ; votre score : 2 mm ma
@@ -328,42 +328,42 @@ _Jagged_Edge_
 [18:46:55] <SquonK> [18:46:50] Partie avec TymGiu terminée ; votre score : 4 mkc elem
 [18:46:56] <TymGiu> [18:47:01] Partie avec SquonK terminée ; votre score : 6 mkc elem bat
 
-// Surveillé par Omicron2
+// Surveillé par Omicron2 (60)
 [19:16:35] <Marluxia> [18:12:11] Partie avec Huey terminée ; votre score : 8 Alea +=
 [19:22:17] <Marluxia> [18:21:54] Partie avec Huey terminée ; votre score : 3 mm ma élé
 [19:30:19] <Marluxia> [18:30:08] Partie avec Huey terminée ; votre score : 3 Alea mp +=
 [19:39:55] <Marluxia> [18:39:23] Partie avec Huey terminée ; votre score : 6 MP bat
 [19:45:36] <Marluxia> [18:45:19] Partie avec Huey terminée ; votre score : 4 Mkc bat élé
 
-// Surveillé par Omicron2
+// Surveillé par Omicron2 (61)
 [21:31:05] <Redsox> [21:30:17] Partie avec PhuteMegre terminée ; votre score : 9 id + alea
 [21:39:55] <Redsox> [21:38:38] Partie avec PhuteMegre terminée ; votre score : 7 mm ma elem
 [21:46:28] <Redsox> [21:46:15] Partie avec PhuteMegre terminée ; votre score : 6 mp id +alea
 [21:51:35] <Redsox> [21:51:03] Partie avec PhuteMegre terminée ; votre score : 5 mp bat
 [22:02:03] <Redsox> [22:01:52] Partie avec PhuteMegre terminée ; votre score : 6 mkc elem bat
 
-// Surveillé par SquonK
+// Surveillé par SquonK (62)
 [21:28:00] <SquonK> [21:27:53] Partie avec ClaXus terminée ; votre score : 1 + = alea
 [21:36:08] <SquonK> [21:36:03] Partie avec ClaXus terminée ; votre score : 6 mm ma
 [21:40:48] <SquonK> [21:40:43] Partie avec ClaXus terminée ; votre score : 7 mp + =
 [21:46:48] <SquonK> [21:46:42] Partie avec ClaXus terminée ; votre score : 6 mp
 [21:52:55] <SquonK> [21:52:28] Partie avec ClaXus terminée ; votre score : 5 mkc
 
-// Surveillé par SquonK
+// Surveillé par SquonK (63)
 [23:10:08] <SquonK> [23:10:03] Partie avec Marluxia terminée ; votre score : 7 + =
 [23:13:12] <SquonK> [23:13:07] Partie avec Marluxia terminée ; votre score : 5 mm ma
 [23:14:55] <SquonK> [23:14:49] Partie avec Marluxia terminée ; votre score : 6 mp + =
 [23:17:51] <SquonK> [23:17:46] Partie avec Marluxia terminée ; votre score : 5 mp bat
 [23:21:46] <SquonK> [23:21:39] Partie avec Marluxia terminée ; votre score : 5 mkc
 
-// Surveillé par Omicron2
+// Surveillé par Omicron2 (64)
 [23:48:18] <PhuteMegre> [21:48:08] Partie avec DjaM terminée ; votre score : 6 r
 [23:57:11] <PhuteMegre> [21:56:59] Partie avec DjaM terminée ; votre score : 5 o
 [00:05:44] <PhuteMegre> [22:05:37] Partie avec DjaM terminée ; votre score : 6 b
 [00:15:50] <PhuteMegre> [22:15:42] Partie avec DjaM terminée ; votre score : 6 v
 [00:21:50] <PhuteMegre> [22:21:42] Partie avec DjaM terminée ; votre score : 4 j
 
-// Surveillé par SquonK
+// Surveillé par SquonK (65)
 [00:31:39] <Redsox> [00:30:54] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 5 plus alea -
 [00:42:28] <zlogjzeigfzgjpzeige> [00:30:55] Partie avec Redsox terminée ; votre score : 5 alea =+
 [00:42:17] <Redsox> [00:41:55] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 5 mm ma élé
@@ -376,60 +376,95 @@ _Jagged_Edge_
 [01:08:23] <zlogjzeigfzgjpzeige> [01:08:18] Partie avec Redsox terminée ; votre score : 6 mkc bat ele
 
 
-// Surveillé par SquonK / Tae
+// Surveillé par SquonK / Tae (66)
 [00:38:04] <SquonK> [00:37:56] Partie avec Tae-Ju terminée ; votre score : 7 + = alea
 [00:40:45] <SquonK> [00:40:36] Partie avec Tae-Ju terminée ; votre score : 6 mm ma
 [00:42:31] <SquonK> [00:42:27] Partie avec Tae-Ju terminée ; votre score : 8 mp + =
 [00:47:22] <SquonK> [00:47:09] Partie avec Tae-Ju terminée ; votre score : 6 mp
 [00:50:41] <SquonK> [00:50:38] Partie avec Tae-Ju terminée ; votre score : 5 mkc
 
-// Surveillé par Tae-Ju
+// Surveillé par Tae-Ju (67)
 [12:15:56] <Redsox> [12:15:44] Partie avec Tae-Ju terminée ; votre score : 5 id+ alea
 [12:22:08] <Redsox> [12:21:54] Partie avec Tae-Ju terminée ; votre score : 6 mm ma
 [12:26:16] <Redsox> [12:26:05] Partie avec Tae-Ju terminée ; votre score : 7 mp id +
 [12:29:49] <Redsox> [12:29:31] Partie avec Tae-Ju terminée ; votre score : 5 mp
 [12:36:07] <Redsox> [12:35:49] Partie avec Tae-Ju terminée ; votre score : 4 mkc
 
-// Surveillé par Tae-Ju
+// Surveillé par Tae-Ju (68)
+// Tae-Ju vs Didier_Raoult
+
+
+// Surveillé par Tae-Ju (69)
 [12:47:15] <Redsox> [12:46:46] Partie avec Locke terminée ; votre score : 7 id + lea
 [12:52:26] <Redsox> [12:52:10] Partie avec Locke terminée ; votre score : 5 mm ma
 [13:02:10] <Redsox> [13:01:53] Partie avec Locke terminée ; votre score : 6 mp id +
 [13:07:53] <Redsox> [13:07:33] Partie avec Locke terminée ; votre score : 5 mp
 [13:13:42] <Redsox> [13:13:33] Partie avec Locke terminée ; votre score : 5 mkc
 
-// Surveillé par Tae-Ju
+// Surveillé par Tae-Ju (70)
 [13:33:18] <Locke> [13:33:10] Partie avec Tae-Ju terminée ; votre score : 5 r
 [13:37:30] <Locke> [13:37:24] Partie avec Tae-Ju terminée ; votre score : 5 o
 [13:41:33] <Locke> [13:41:24] Partie avec Tae-Ju terminée ; votre score : 4 b
 [13:44:14] <Locke> [13:44:05] Partie avec Tae-Ju terminée ; votre score : 5 v
 [13:47:45] <Locke> [13:47:37] Partie avec Tae-Ju terminée ; votre score : 5 j
 
-// Surveillé par Tae-Ju
+// Surveillé par Tae-Ju (71)
 [13:49:35] <Hades> [13:49:37] Partie avec Locke terminée ; votre score : 6 id + alea
 [13:53:06] <Hades> [13:53:04] Partie avec Locke terminée ; votre score : 5 mm ma elem
 [13:56:12] <Hades> [13:56:11] Partie avec Locke terminée ; votre score : 6 mp id + alea
 [13:59:04] <Hades> [13:59:06] Partie avec Locke terminée ; votre score : 5 mp bat
 [14:14:33] <Hades> [14:14:27] Partie avec Locke terminée ; votre score : 5 mkc elem bat
 
-// Surveillé par Omicron2
+// Surveillé par Omicron2 (72)
 [14:46:47] <Hades> [14:46:49] Partie avec Garuda terminée ; votre score : 5 id + alea
 [14:48:53] <Hades> [14:48:53] Partie avec Garuda terminée ; votre score : 3 mm ma elem
 [14:53:23] <Hades> [14:53:22] Partie avec Garuda terminée ; votre score : 5 mp id + alea
 [14:57:05] <Hades> [14:57:00] Partie avec Garuda terminée ; votre score : 5 mp bat
 [15:01:35] <Hades> [15:01:33] Partie avec Garuda terminée ; votre score : 5 mkc elem bat
 
-// Surveillé par Omicron2
+// Surveillé par Omicron2 (73)
 [14:43:03] <Redsox> [14:42:32] Partie avec Gregsto11 terminée ; votre score : 6 id + alea
 [14:46:27] <Redsox> [14:46:13] Partie avec Gregsto11 terminée ; votre score : 6 mm ma
 [14:52:23] <Redsox> [14:52:03] Partie avec Gregsto11 terminée ; votre score : 7 mp id +
 [15:00:39] <Redsox> [15:00:20] Partie avec Gregsto11 terminée ; votre score : 6 mp
 [15:06:54] <Redsox> [15:06:46] Partie avec Gregsto11 terminée ; votre score : 7 mkc
 
-// Surveillé par Omicron2
+// Surveillé par Omicron2 (74)
 [15:08:29] <Garuda> [15:08:17] Partie avec PhuteMegre terminée ; votre score : 4 r
 [15:14:45] <Garuda> [15:14:30] Partie avec PhuteMegre terminée ; votre score : 5 o
 [15:19:57] <Garuda> [15:19:44] Partie avec PhuteMegre terminée ; votre score : 1 b
 [15:27:21] <Garuda> [15:27:05] Partie avec PhuteMegre terminée ; votre score : 5 v
 [15:36:19] <Garuda> [15:36:04] Partie avec PhuteMegre terminée ; votre score : 4 j
 
+// Surveillé par SquonK (75)
+[16:03:22] <Locke> [16:03:16] Partie avec juju777 terminée ; votre score : 6 + = alea
+[16:10:33] <Locke> [16:10:25] Partie avec juju777 terminée ; votre score : 4 mm ma
+[16:14:36] <Locke> [16:14:29] Partie avec juju777 terminée ; votre score : 6 mp + =
+[16:20:21] <Locke> [16:20:15] Partie avec juju777 terminée ; votre score : 6 mp bat
+[16:25:26] <Locke> [16:25:20] Partie avec juju777 terminée ; votre score : 5 mkc elem bat
+
+[16:03:49] <juju777> [16:03:14] Partie avec Locke terminée ; votre score : 4 alea +=
+[16:10:42] <juju777> [16:10:29] Partie avec Locke terminée ; votre score : 6 mm ma elem
+[16:14:41] <juju777> [16:14:29] Partie avec Locke terminée ; votre score : 4 alea + = mp
+[16:20:30] <juju777> [16:20:14] Partie avec Locke terminée ; votre score : 4 mp bat
+[16:25:36] <juju777> [16:25:20] Partie avec Locke terminée ; votre score : 5 mkc elem bat
+
+// Surveillé par SquonK (76)
+[16:28:13] <SquonK> [16:28:09] Partie avec Locke terminée ; votre score : 5 + =
+[16:32:38] <SquonK> [16:32:29] Partie avec Locke terminée ; votre score : 9 mm ma
+[16:36:01] <SquonK> [16:35:51] Partie avec Locke terminée ; votre score : 7 mp + =
+[16:40:32] <SquonK> [16:40:21] Partie avec Locke terminée ; votre score : 5 mp
+[16:46:05] <SquonK> [16:45:58] Partie avec Locke terminée ; votre score : 7 mkc
+
+
 yamete kudasai
+
+// Surveillé par SquonK (77)
+[16:50:53] <juju777> [16:50:31] Partie avec Gregsto11 terminée ; votre score : 4 alea + =
+[16:56:05] <juju777> [16:55:50] Partie avec Gregsto11 terminée ; votre score : 5 mm ma elem
+[17:01:56] <juju777> [17:01:44] Partie avec Gregsto11 terminée ; votre score : 7 alea + = mp
+
+[16:50:54] <Gregsto11> [16:50:33] Partie avec juju777 terminée ; votre score : 6 += alea
+[16:56:22] <Gregsto11> [16:55:52] Partie avec juju777 terminée ; votre score : 5   = + MM MA E
+[17:02:01] <Gregsto11> [17:01:46] Partie avec juju777 terminée ; votre score : 3  += MP ALEA
+

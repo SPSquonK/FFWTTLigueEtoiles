@@ -50,7 +50,7 @@ def convert_rule(rule_str):
 
     if has_mkc:
         if has_plus or has_mp or has_mm:
-            sys.stderr.print("Unknown rule : " + rule_str)
+            sys.stderr.write("Unknown rule : " + rule_str)
         else:
             return "mkc"
     elif has_mp:
@@ -63,7 +63,7 @@ def convert_rule(rule_str):
     elif has_plus:
         return "+ ="
     else:
-        sys.stderr.print("Unknown rule : " + rule_str)
+        sys.stderr.write("Unknown rule : " + rule_str)
         exit(0)
 
 
@@ -84,7 +84,7 @@ def read_game(line):
 
         return game_object
     else:
-        sys.stderr.print("<" + line + "> does not match regex\n")
+        sys.stderr.write("<" + line + "> does not match regex\n")
         exit(0)
 
 
