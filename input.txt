@@ -519,5 +519,17 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [18:08:57] <f4rmeur_f0u> [18:08:48] Partie avec Didier_Raoult terminée ; votre score : 6 mp bat
 [18:11:09] <f4rmeur_f0u> [18:11:00] Partie avec Didier_Raoult terminée ; votre score : 5 mkc bat élém
 
+// Surveillé par SquonK (82)
+[18:33:16] <f4rmeur_f0u> [18:33:00] Partie avec Redsox terminée ; votre score : 5 + = aléa
+[18:37:32] <f4rmeur_f0u> [18:37:15] Partie avec Redsox terminée ; votre score : 5 mm ma elem
+[18:43:48] <f4rmeur_f0u> [18:43:39] Partie avec Redsox terminée ; votre score : 5 mp + = aléa
+[18:46:31] <f4rmeur_f0u> [18:46:19] Partie avec Redsox terminée ; votre score : 5 mp bat
+[18:50:16] <f4rmeur_f0u> [18:50:00] Partie avec Redsox terminée ; votre score : 4 mkc bat leme
 
-yamete kudasai
+[18:37:14] <Redsox> [18:33:00] Partie avec f4rmeur_f0u terminée ; votre score : 5 id +
+[18:37:23] <Redsox> [18:37:15] Partie avec f4rmeur_f0u terminée ; votre score : 5 mm ma
+[18:44:13] <Redsox> [18:43:39] Partie avec f4rmeur_f0u terminée ; votre score : 5 mp id +
+[18:50:11] <Redsox> [18:46:19] Partie avec f4rmeur_f0u terminée ; votre score : 5 mp
+[18:50:13] <Redsox> [18:50:00] Partie avec f4rmeur_f0u terminée ; votre score : 6 mkc
+
+
