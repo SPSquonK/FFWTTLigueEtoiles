@@ -456,15 +456,68 @@ _Jagged_Edge_
 [16:40:32] <SquonK> [16:40:21] Partie avec Locke terminée ; votre score : 5 mp
 [16:46:05] <SquonK> [16:45:58] Partie avec Locke terminée ; votre score : 7 mkc
 
-
-yamete kudasai
-
 // Surveillé par SquonK (77)
 [16:50:53] <juju777> [16:50:31] Partie avec Gregsto11 terminée ; votre score : 4 alea + =
 [16:56:05] <juju777> [16:55:50] Partie avec Gregsto11 terminée ; votre score : 5 mm ma elem
 [17:01:56] <juju777> [17:01:44] Partie avec Gregsto11 terminée ; votre score : 7 alea + = mp
+[17:05:16] <juju777> [17:05:06] Partie avec Gregsto11 terminée ; votre score : 6 mp bat
+[17:10:31] <juju777> [17:10:19] Partie avec Gregsto11 terminée ; votre score : 6 mkc elem bat
 
 [16:50:54] <Gregsto11> [16:50:33] Partie avec juju777 terminée ; votre score : 6 += alea
 [16:56:22] <Gregsto11> [16:55:52] Partie avec juju777 terminée ; votre score : 5   = + MM MA E
 [17:02:01] <Gregsto11> [17:01:46] Partie avec juju777 terminée ; votre score : 3  += MP ALEA
+[17:05:18] <Gregsto11> [17:05:06] Partie avec juju777 terminée ; votre score : 4  MP B
+[17:10:49] <Gregsto11> [17:10:21] Partie avec juju777 terminée ; votre score : 4 ELEM B MC
 
+// Surveillé par SquonK (78)
+[17:16:40] <juju777> [17:16:12] Partie avec SquonK terminée ; votre score : 5 alea + =
+
+[17:16:40] <SquonK> [17:16:11] Partie avec juju777 terminée ; votre score : 5 + = alea
+[17:29:05] <SquonK> [17:28:59] Partie avec juju777 terminée ; votre score : 5 mm ma
+[17:22:29] <SquonK> [17:22:23] Partie avec juju777 terminée ; votre score : 5 mp + =
+[17:47:24] <SquonK> [17:47:21] Partie avec juju777 terminée ; votre score : 5 mp
+[17:53:13] <SquonK> [17:53:08] Partie avec juju777 terminée ; votre score : 6 mkc
+
+
+// Surveillé par SquonK (79)
+[17:17:17] <SquonK> [17:17:07] Partie avec Gregsto11 terminée ; votre score : 7 + = alea
+[17:17:33] <Gregsto11> [17:17:09] Partie avec SquonK terminée ; votre score : 3 + = alea
+[17:20:38] <SquonK> [17:20:33] Partie avec Gregsto11 terminée ; votre score : 8 mm ma
+[17:20:48] <Gregsto11> [17:20:35] Partie avec SquonK terminée ; votre score : 2 mm ma
+[17:24:24] <SquonK> [17:24:18] Partie avec Gregsto11 terminée ; votre score : 4 mp + =
+[17:24:32] <Gregsto11> [17:24:20] Partie avec SquonK terminée ; votre score : 6 mp + =
+[17:30:53] <Gregsto11> [17:30:44] Partie avec SquonK terminée ; votre score : 3 mp bat
+[17:31:06] <SquonK> [17:30:41] Partie avec Gregsto11 terminée ; votre score : 7 mp bat
+[17:35:28] <SquonK> [17:35:24] Partie avec Gregsto11 terminée ; votre score : 5 mkc
+[17:35:54] <Gregsto11> [17:35:26] Partie avec SquonK terminée ; votre score : 5 mkc
+
+
+// Surveillé par SquonK (80)
+[17:46:54] <Gregsto11> [17:46:37] Partie avec Darckzander terminée ; votre score : 8  += ALEA
+[17:53:16] <Gregsto11> [17:53:00] Partie avec Darckzander terminée ; votre score : 2 += mm ma e
+[17:59:37] <Gregsto11> [17:59:20] Partie avec Darckzander terminée ; votre score : 5  += MP ALEA
+[18:06:18] <Gregsto11> [18:06:08] Partie avec Darckzander terminée ; votre score : 5  MP B
+
+[17:47:05] <Darckzander> [17:46:53] Partie avec Gregsto11 terminée ; votre score : 2 id+ alea
+[17:53:16] <Darckzander> [17:53:17] Partie avec Gregsto11 terminée ; votre score : 8 mm ma élé
+[17:59:43] <Darckzander> [17:59:36] Partie avec Gregsto11 terminée ; votre score : 5 id + alea mp
+[18:06:18] <Darckzander> [18:06:24] Partie avec Gregsto11 terminée ; votre score : 5 mp bat
+
+Darckzander Peer vs Gregsto11 mkc bat elem
+
+
+// Surveillé par SquonK (81)
+[18:00:26] <Didier_Raoult> [18:00:15] Partie avec f4rmeur_f0u terminée ; votre score : 3 +=ALEA
+[18:03:27] <Didier_Raoult> [18:03:16] Partie avec f4rmeur_f0u terminée ; votre score : 6  MM MA ELEM
+[18:05:35] <Didier_Raoult> [18:05:21] Partie avec f4rmeur_f0u terminée ; votre score : 5  MP=+ALEA
+[18:09:02] <Didier_Raoult> [18:08:48] Partie avec f4rmeur_f0u terminée ; votre score : 4  MP BAT
+[18:11:13] <Didier_Raoult> [18:11:01] Partie avec f4rmeur_f0u terminée ; votre score : 5  MKC BAT ELEM
+
+[18:00:33] <f4rmeur_f0u> [18:00:16] Partie avec Didier_Raoult terminée ; votre score : 7 + = aléa
+[18:03:34] <f4rmeur_f0u> [18:03:14] Partie avec Didier_Raoult terminée ; votre score : 4 mm ma élém
+[18:05:29] <f4rmeur_f0u> [18:05:20] Partie avec Didier_Raoult terminée ; votre score : 5 mp + = aléa
+[18:08:57] <f4rmeur_f0u> [18:08:48] Partie avec Didier_Raoult terminée ; votre score : 6 mp bat
+[18:11:09] <f4rmeur_f0u> [18:11:00] Partie avec Didier_Raoult terminée ; votre score : 5 mkc bat élém
+
+
+yamete kudasai

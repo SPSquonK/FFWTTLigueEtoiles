@@ -67,6 +67,25 @@ def convert_rule(rule_str):
         exit(0)
 
 
+def read_peer(line):
+    REGEX_PEER = "^([A-Za-z_^\-0-9]*) Peer vs ([A-Za-z_^\-0-9]*) (.*)$"
+    match = re.search(REGEX_PEER, line)
+    if match:
+        player1 = match.group(1)
+        player2 = match.group(2)
+        rule_str = match.group(3)
+
+        game_object = {}
+        game_object["player1"] = find_player(player1)
+        game_object["player2"] = find_player(player2)
+        game_object["score"] = 3
+        game_object["rule"] = convert_rule(rule_str)
+
+        return game_object
+    else:
+        return None
+
+
 def read_game(line):
     regex_str = r"^\[[0-9][0-9]:[0-9][0-9]:[0-9][0-9]\] <([A-Za-z_^\-0-9]*)> (\[[0-9][0-9]:[0-9][0-9]:[0-9][0-9]\])? ?Partie avec ([A-Za-z_^\-0-9]*) terminée ; votre score : ([0-9]*) (.*)$"
     match = re.search(regex_str, line)
@@ -137,7 +156,10 @@ with open("input.txt", encoding="utf-8") as f:
             for name in names:
                 list_of_other_names[name] = names[0]
         else:
-            game_object = read_game(line)
+            game_object = read_peer(line)
+
+            if game_object is None:
+                game_object = read_game(line)
 
             register_game(list_of_players[game_object["player1"]], game_object["player2"], game_object["rule"], game_object["score"])
             register_game(list_of_players[game_object["player2"]], game_object["player1"], game_object["rule"], 10 - game_object["score"])
