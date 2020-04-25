@@ -592,5 +592,17 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [22:38:06] <Gregsto11> [22:37:58] Partie avec Locke terminée ; votre score : 2 v
 [22:43:20] <Gregsto11> [22:43:06] Partie avec Locke terminée ; votre score : 6 j
 
+// Surveillé par SquonK (90)
+[23:10:02] <Marluxia> [22:09:13] Partie avec Locke terminée ; votre score : 4 Alea + =
+[23:16:34] <Marluxia> [22:16:22] Partie avec Locke terminée ; votre score : 4 mm ma élé
+[23:21:29] <Marluxia> [22:21:15] Partie avec Locke terminée ; votre score : 5 alea mp +=
+[23:28:21] <Marluxia> [22:28:09] Partie avec Locke terminée ; votre score : 6 Mp bat
+[23:34:18] <Marluxia> [22:34:02] Partie avec Locke terminée ; votre score : 6 mkc élé bat
+
+[23:09:17] <Locke> [23:09:11] Partie avec Marluxia terminée ; votre score : 6 rouge
+[23:16:26] <Locke> [23:16:21] Partie avec Marluxia terminée ; votre score : 6 orange
+[23:21:21] <Locke> [23:21:13] Partie avec Marluxia terminée ; votre score : 5 bleu
+[23:28:17] <Locke> [23:28:07] Partie avec Marluxia terminée ; votre score : 4 vert
+[23:34:08] <Locke> [23:34:00] Partie avec Marluxia terminée ; votre score : 4 jaune
 
 
