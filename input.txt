@@ -575,3 +575,22 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [21:02:53] <f4rmeur_f0u> [21:02:51] Partie avec _Jagged_Edge_ terminée ; votre score : 6 j
 
 
+// Surveillé par SquonK (87)
+[22:05:52] <Locke> [22:05:45] Partie avec ClaXus terminée ; votre score : 6 + =
+[22:15:21] <Locke> [22:15:14] Partie avec ClaXus terminée ; votre score : 5 mm ma
+[22:21:08] <Locke> [22:20:53] Partie avec ClaXus terminée ; votre score : 5 mp + =
+[22:32:25] <Locke> [22:32:18] Partie avec ClaXus terminée ; votre score : 5 mp
+[22:38:14] <Locke> [22:38:09] Partie avec ClaXus terminée ; votre score : 6 mkc
+
+[22:06:02] <ClaXus> [22:05:45] Partie avec Locke terminée ; votre score : 4 + =
+
+
+// Surveillé par ClaXus (88)
+[22:27:05] <Gregsto11> [22:26:49] Partie avec Locke terminée ; votre score : 4 r
+[22:29:34] <Gregsto11> [22:29:16] Partie avec Locke terminée ; votre score : 4 o
+[22:34:39] <Gregsto11> [22:34:22] Partie avec Locke terminée ; votre score : 1 b
+[22:38:06] <Gregsto11> [22:37:58] Partie avec Locke terminée ; votre score : 2 v
+[22:43:20] <Gregsto11> [22:43:06] Partie avec Locke terminée ; votre score : 6 j
+
+
+
