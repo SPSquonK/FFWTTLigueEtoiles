@@ -257,12 +257,18 @@ print()
 print()
 print()
 print()
+SHOW_AVERAGE = True
+
 print('<table class="wikitable" border="1" style="text-align: center; width: 100%">')
 
 def get_rule_header():
     s = "<tr>"
     for rule in rules:
-        s += "<th></th><th colspan=2>" + rules[rule][1] + "</th>"
+        if SHOW_AVERAGE:
+            s += "<th></th><th colspan=3>" + rules[rule][1] + "</th>"
+        else:
+            s += "<th></th><th colspan=2>" + rules[rule][1] + "</th>"
+
     s += "</tr>"
     return s
 
@@ -279,6 +285,8 @@ def get_rule_header2():
             s+= "<th></th>"
         s += "<th>Joueur</th>"
         s += "<th>Points</th>"
+        if SHOW_AVERAGE:
+            s += "<th>Moy</th>"
     s += "</tr>"
     return s
 
@@ -308,6 +316,11 @@ for i in range(len(list_of_players)):
         
         p_name = rankings[rule][i]
         s += "<td>" + p_name + "</td><td>" + str(list_of_players[p_name]["ranking"][rule]["score"]) + "</td>"
+        if SHOW_AVERAGE:
+            s += "<td>"
+            s += "{:0.1f}".format(list_of_players[p_name]["ranking"][rule]["score"] / list_of_players[p_name]["ranking"][rule]["played"])
+            s += "</td>"
+            #s += "<td>{:0.1f} {}</td>".format(list_of_players[p_name]["ranking"][rule]["score"] / list_of_players[player_name]["ranking"][rule]["played"], list_of_players[player_name]["ranking"][rule]["played"])
 
         list_of_players[p_name]["ranking"][rule]["rank"] = i + 1
 
