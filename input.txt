@@ -383,6 +383,32 @@ _Jagged_Edge_
 [00:47:22] <SquonK> [00:47:09] Partie avec Tae-Ju terminée ; votre score : 6 mp
 [00:50:41] <SquonK> [00:50:38] Partie avec Tae-Ju terminée ; votre score : 5 mkc
 
+// Surveillé par Tae-Ju
+[12:15:56] <Redsox> [12:15:44] Partie avec Tae-Ju terminée ; votre score : 5 id+ alea
+[12:22:08] <Redsox> [12:21:54] Partie avec Tae-Ju terminée ; votre score : 6 mm ma
+[12:26:16] <Redsox> [12:26:05] Partie avec Tae-Ju terminée ; votre score : 7 mp id +
+[12:29:49] <Redsox> [12:29:31] Partie avec Tae-Ju terminée ; votre score : 5 mp
+[12:36:07] <Redsox> [12:35:49] Partie avec Tae-Ju terminée ; votre score : 4 mkc
 
+// Surveillé par Tae-Ju
+[12:47:15] <Redsox> [12:46:46] Partie avec Locke terminée ; votre score : 7 id + lea
+[12:52:26] <Redsox> [12:52:10] Partie avec Locke terminée ; votre score : 5 mm ma
+[13:02:10] <Redsox> [13:01:53] Partie avec Locke terminée ; votre score : 6 mp id +
+[13:07:53] <Redsox> [13:07:33] Partie avec Locke terminée ; votre score : 5 mp
+[13:13:42] <Redsox> [13:13:33] Partie avec Locke terminée ; votre score : 5 mkc
+
+// Surveillé par Tae-Ju
+[13:33:18] <Locke> [13:33:10] Partie avec Tae-Ju terminée ; votre score : 5 r
+[13:37:30] <Locke> [13:37:24] Partie avec Tae-Ju terminée ; votre score : 5 o
+[13:41:33] <Locke> [13:41:24] Partie avec Tae-Ju terminée ; votre score : 4 b
+[13:44:14] <Locke> [13:44:05] Partie avec Tae-Ju terminée ; votre score : 5 v
+[13:47:45] <Locke> [13:47:37] Partie avec Tae-Ju terminée ; votre score : 5 j
+
+// Surveillé par Tae-Ju
+[13:49:35] <Hades> [13:49:37] Partie avec Locke terminée ; votre score : 6 id + alea
+[13:53:06] <Hades> [13:53:04] Partie avec Locke terminée ; votre score : 5 mm ma elem
+[13:56:12] <Hades> [13:56:11] Partie avec Locke terminée ; votre score : 6 mp id + alea
+[13:59:04] <Hades> [13:59:06] Partie avec Locke terminée ; votre score : 5 mp bat
+[14:14:33] <Hades> [14:14:27] Partie avec Locke terminée ; votre score : 5 mkc elem bat
 
 yamete kudasai
