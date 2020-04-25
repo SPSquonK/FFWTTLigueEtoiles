@@ -411,4 +411,18 @@ _Jagged_Edge_
 [13:59:04] <Hades> [13:59:06] Partie avec Locke terminée ; votre score : 5 mp bat
 [14:14:33] <Hades> [14:14:27] Partie avec Locke terminée ; votre score : 5 mkc elem bat
 
+// Surveillé par Omicron2
+[14:46:47] <Hades> [14:46:49] Partie avec Garuda terminée ; votre score : 5 id + alea
+[14:48:53] <Hades> [14:48:53] Partie avec Garuda terminée ; votre score : 3 mm ma elem
+[14:53:23] <Hades> [14:53:22] Partie avec Garuda terminée ; votre score : 5 mp id + alea
+[14:57:05] <Hades> [14:57:00] Partie avec Garuda terminée ; votre score : 5 mp bat
+[15:01:35] <Hades> [15:01:33] Partie avec Garuda terminée ; votre score : 5 mkc elem bat
+
+// Surveillé par Omicron2
+[14:43:03] <Redsox> [14:42:32] Partie avec Gregsto11 terminée ; votre score : 6 id + alea
+[14:46:27] <Redsox> [14:46:13] Partie avec Gregsto11 terminée ; votre score : 6 mm ma
+[14:52:23] <Redsox> [14:52:03] Partie avec Gregsto11 terminée ; votre score : 7 mp id +
+[15:00:39] <Redsox> [15:00:20] Partie avec Gregsto11 terminée ; votre score : 6 mp
+[15:06:54] <Redsox> [15:06:46] Partie avec Gregsto11 terminée ; votre score : 7 mkc
+
 yamete kudasai
