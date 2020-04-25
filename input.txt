@@ -533,3 +533,16 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [18:50:13] <Redsox> [18:50:00] Partie avec f4rmeur_f0u terminée ; votre score : 6 mkc
 
 
+// Surveillé par SquonK (83)
+[19:51:05] <f4rmeur_f0u> [19:50:52] Partie avec Tae-Ju terminée ; votre score : 4 + = aléa
+[19:55:04] <f4rmeur_f0u> [19:54:58] Partie avec Tae-Ju terminée ; votre score : 5 mm ma elem
+[20:00:02] <f4rmeur_f0u> [19:59:51] Partie avec Tae-Ju terminée ; votre score : 6 mp + = aléa
+[20:05:29] <f4rmeur_f0u> [20:05:19] Partie avec Tae-Ju terminée ; votre score : 6 mp bat
+[20:08:16] <f4rmeur_f0u> [20:08:09] Partie avec Tae-Ju terminée ; votre score : 6 mkc bat élém
+[19:51:00] <Tae-Ju> [19:50:53] Partie avec f4rmeur_f0u terminée ; votre score : 6 r
+[19:55:15] <Tae-Ju> [19:54:59] Partie avec f4rmeur_f0u terminée ; votre score : 5 o
+[20:00:00] <Tae-Ju> [19:59:52] Partie avec f4rmeur_f0u terminée ; votre score : 4 b
+[20:05:26] <Tae-Ju> [20:05:20] Partie avec f4rmeur_f0u terminée ; votre score : 4 v
+[20:08:18] <Tae-Ju> [20:08:10] Partie avec f4rmeur_f0u terminée ; votre score : 4 j
+
+
