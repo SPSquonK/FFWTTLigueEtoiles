@@ -546,3 +546,32 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [20:08:18] <Tae-Ju> [20:08:10] Partie avec f4rmeur_f0u terminée ; votre score : 4 j
 
 
+// Surveillé par SquonK (84)
+[20:39:30] <SquonK> [20:39:21] Partie avec Redsox terminée ; votre score : 5 + =
+[20:44:49] <SquonK> [20:44:44] Partie avec Redsox terminée ; votre score : 5 mm ma
+[20:50:42] <SquonK> [20:50:37] Partie avec Redsox terminée ; votre score : 5 mp + =
+[20:55:51] <SquonK> [20:55:45] Partie avec Redsox terminée ; votre score : 4 mp
+[21:01:47] <SquonK> [21:01:37] Partie avec Redsox terminée ; votre score : 5 mkc
+
+// Surveillé par SquonK (85)
+[20:42:39] <PhuteMegre> [18:42:30] Partie avec Locke terminée ; votre score : 5 r
+[20:47:54] <PhuteMegre> [18:47:48] Partie avec Locke terminée ; votre score : 8 o
+[20:52:00] <PhuteMegre> [18:51:53] Partie avec Locke terminée ; votre score : 5 b
+[21:00:23] <PhuteMegre> [19:00:18] Partie avec Locke terminée ; votre score : 5 v
+[21:19:38] <PhuteMegre> [19:19:31] Partie avec Locke terminée ; votre score : 5
+
+[20:42:40] <Locke> [20:42:30] Partie avec PhuteMegre terminée ; votre score : 5 r
+[20:48:03] <Locke> [20:47:49] Partie avec PhuteMegre terminée ; votre score : 2 o
+[20:52:02] <Locke> [20:51:53] Partie avec PhuteMegre terminée ; votre score : 5 b
+[21:00:25] <Locke> [21:00:18] Partie avec PhuteMegre terminée ; votre score : 5 v
+[21:19:37] <Locke> [21:19:32] Partie avec PhuteMegre terminée ; votre score : 5 j
+
+
+// Surveillé par ClaXus (86)
+[20:50:20] <f4rmeur_f0u> [20:50:57] Partie avec _Jagged_Edge_ terminée ; votre score : 4 r
+[20:54:58] <f4rmeur_f0u> [20:54:53] Partie avec _Jagged_Edge_ terminée ; votre score : 6 o
+[20:57:10] <f4rmeur_f0u> [20:57:16] Partie avec _Jagged_Edge_ terminée ; votre score : 6 b
+[20:59:05] <f4rmeur_f0u> [20:58:49] Partie avec _Jagged_Edge_ terminée ; votre score : 5 v
+[21:02:53] <f4rmeur_f0u> [21:02:51] Partie avec _Jagged_Edge_ terminée ; votre score : 6 j
+
+
