@@ -519,6 +519,7 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [18:08:57] <f4rmeur_f0u> [18:08:48] Partie avec Didier_Raoult terminée ; votre score : 6 mp bat
 [18:11:09] <f4rmeur_f0u> [18:11:00] Partie avec Didier_Raoult terminée ; votre score : 5 mkc bat élém
 
+
 // Surveillé par SquonK (82)
 [18:33:16] <f4rmeur_f0u> [18:33:00] Partie avec Redsox terminée ; votre score : 5 + = aléa
 [18:37:32] <f4rmeur_f0u> [18:37:15] Partie avec Redsox terminée ; votre score : 5 mm ma elem
@@ -614,6 +615,7 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [12:51:27] <SquonK> [12:51:21] Partie avec _Jagged_Edge_ terminée ; votre score : 4 mp
 [12:54:47] <SquonK> [12:54:39] Partie avec _Jagged_Edge_ terminée ; votre score : 4 mkc
 
+
 // Surveillé par SquonK (91)
 [13:02:10] <PhuteMegre> [11:02:04] Partie avec _Jagged_Edge_ terminée ; votre score : 7 + = alea
 [13:09:42] <PhuteMegre> [11:09:32] Partie avec _Jagged_Edge_ terminée ; votre score : 5 mm ma
@@ -625,6 +627,7 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [13:09:40] <_Jagged_Edge_> [13:09:34] Partie avec PhuteMegre terminée ; votre score : 5 mm ma
 [13:48:22] <_Jagged_Edge_> [13:48:07] Partie avec PhuteMegre terminée ; votre score : 5 mp + =
 [14:01:28] <_Jagged_Edge_> [14:01:20] Partie avec PhuteMegre terminée ; votre score : 5 mkc elem
+
 
 // Surveillé par SquonK (92)
 [16:04:48] <Locke> [16:04:43] Partie avec f4rmeur_f0u terminée ; votre score : 4 + = alea
@@ -711,10 +714,51 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [20:30:55] <Marluxia> [19:30:49] Partie avec f4rmeur_f0u terminée ; votre score : 6 alea mp +=
 [20:35:13] <Marluxia> [19:34:55] Partie avec f4rmeur_f0u terminée ; votre score : 6 Mp bat
 [20:36:59] <Marluxia> [19:36:52] Partie avec f4rmeur_f0u terminée ; votre score : 4 mkc elem bat
+
 [20:25:45] <f4rmeur_f0u> [20:25:35] Partie avec Marluxia terminée ; votre score : 4 + = aléa
 [20:29:54] <f4rmeur_f0u> [20:28:31] Partie avec Marluxia terminée ; votre score : 1 mm ma elem
 [20:30:52] <f4rmeur_f0u> [20:30:43] Partie avec Marluxia terminée ; votre score : 4 mp + = aléa
 [20:35:09] <f4rmeur_f0u> [20:34:50] Partie avec Marluxia terminée ; votre score : 4 mp bat
 [20:36:55] <f4rmeur_f0u> [20:36:49] Partie avec Marluxia terminée ; votre score : 6 mkc bat elem
+
+
+// Surveillé par SquonK (98)
+[22:52:59] <Tae-Ju> [22:52:50] Partie avec Darckzander terminée ; votre score : 4 r
+[22:56:50] <Tae-Ju> [22:56:44] Partie avec Darckzander terminée ; votre score : 7 o
+[23:01:14] <Tae-Ju> [23:01:08] Partie avec Darckzander terminée ; votre score : 6 b
+[23:05:13] <Tae-Ju> [23:05:03] Partie avec Darckzander terminée ; votre score : 6 v
+[23:12:17] <Tae-Ju> [23:12:09] Partie avec Darckzander terminée ; votre score : 6 j
+
+[22:53:04] <Darckzander> [22:53:12] Partie avec Tae-Ju terminée ; votre score : 6 id+alea
+[22:56:58] <Darckzander> [22:57:04] Partie avec Tae-Ju terminée ; votre score : 3 mm ma élé
+[23:01:23] <Darckzander> [23:01:28] Partie avec Tae-Ju terminée ; votre score : 4 mp id + aléa
+[23:05:13] <Darckzander> [23:05:23] Partie avec Tae-Ju terminée ; votre score : 4 mp bat
+[23:12:21] <Darckzander> [23:12:27] Partie avec Tae-Ju terminée ; votre score : 4 bat mkc élé
+
+// Surveillé par SquonK (99)
+[23:34:33] <Tae-Ju> [23:34:20] Partie avec Marluxia terminée ; votre score : 4 r
+[23:37:28] <Tae-Ju> [23:37:19] Partie avec Marluxia terminée ; votre score : 6 o
+[23:41:27] <Tae-Ju> [23:41:13] Partie avec Marluxia terminée ; votre score : 4 b
+[23:47:27] <Tae-Ju> [23:46:58] Partie avec Marluxia terminée ; votre score : 4 v
+[23:51:49] <Tae-Ju> [23:51:35] Partie avec Marluxia terminée ; votre score : 4 j
+
+[23:34:32] <Marluxia> [22:34:25] Partie avec Tae-Ju terminée ; votre score : 6 Alea +=
+[23:37:31] <Marluxia> [22:37:21] Partie avec Tae-Ju terminée ; votre score : 4 mm ma elem
+[23:41:24] <Marluxia> [22:41:16] Partie avec Tae-Ju terminée ; votre score : 6 Alea mp +=
+[23:47:09] <Marluxia> [22:47:01] Partie avec Tae-Ju terminée ; votre score : 6 Mp bat
+[23:51:43] <Marluxia> [22:51:38] Partie avec Tae-Ju terminée ; votre score : 6 mkc bat élé
+
+// Surveillé par SquonK (100)
+[23:54:33] <Darckzander> [23:54:36] Partie avec Marluxia terminée ; votre score : 3 id+aléa
+[23:58:22] <Darckzander> [23:58:28] Partie avec Marluxia terminée ; votre score : 8 mm ma élé
+[00:04:45] <Darckzander> [00:04:44] Partie avec Marluxia terminée ; votre score : 5 mp id+alea
+[00:08:50] <Darckzander> [00:08:51] Partie avec Marluxia terminée ; votre score : 4 mp bat
+[00:12:21] <Darckzander> [00:12:26] Partie avec Marluxia terminée ; votre score : 4 bat mkc élé
+
+[23:54:27] <Marluxia> [22:54:20] Partie avec Darckzander terminée ; votre score : 7 Alea +=
+[23:58:15] <Marluxia> [22:58:06] Partie avec Darckzander terminée ; votre score : 2 Mm ma ele
+[00:04:40] <Marluxia> [23:04:28] Partie avec Darckzander terminée ; votre score : 5 Alea mp +=
+[00:08:45] <Marluxia> [23:08:35] Partie avec Darckzander terminée ; votre score : 6 Mp bat
+[00:12:16] <Marluxia> [23:12:08] Partie avec Darckzander terminée ; votre score : 6 Mkc élé bat
 
 
