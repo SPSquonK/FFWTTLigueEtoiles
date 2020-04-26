@@ -12,7 +12,7 @@ juju777
 Locke Lockounet
 Marluxia Zell
 Redsox Redou Horizz Redsox_Dispo
-SquonK Shiho PsY
+Shiho SquonK PsY
 Sweeney Inoubliable-Squall
 Tae-Ju Zack Tae
 TymGiu Hades Ikks Lalime
@@ -616,7 +616,6 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 
 // Surveillé par SquonK (91)
 
-
 [13:02:10] <PhuteMegre> [11:02:04] Partie avec _Jagged_Edge_ terminée ; votre score : 7 + = alea
 [13:09:42] <PhuteMegre> [11:09:32] Partie avec _Jagged_Edge_ terminée ; votre score : 5 mm ma
 [13:48:11] <PhuteMegre> [11:48:06] Partie avec _Jagged_Edge_ terminée ; votre score : 5 mp + =
@@ -627,4 +626,6 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [13:09:40] <_Jagged_Edge_> [13:09:34] Partie avec PhuteMegre terminée ; votre score : 5 mm ma
 [13:48:22] <_Jagged_Edge_> [13:48:07] Partie avec PhuteMegre terminée ; votre score : 5 mp + =
 [14:01:28] <_Jagged_Edge_> [14:01:20] Partie avec PhuteMegre terminée ; votre score : 5 mkc elem
+
+
 
