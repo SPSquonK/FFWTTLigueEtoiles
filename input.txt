@@ -615,7 +615,6 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [12:54:47] <SquonK> [12:54:39] Partie avec _Jagged_Edge_ terminée ; votre score : 4 mkc
 
 // Surveillé par SquonK (91)
-
 [13:02:10] <PhuteMegre> [11:02:04] Partie avec _Jagged_Edge_ terminée ; votre score : 7 + = alea
 [13:09:42] <PhuteMegre> [11:09:32] Partie avec _Jagged_Edge_ terminée ; votre score : 5 mm ma
 [13:48:11] <PhuteMegre> [11:48:06] Partie avec _Jagged_Edge_ terminée ; votre score : 5 mp + =
@@ -627,5 +626,17 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [13:48:22] <_Jagged_Edge_> [13:48:07] Partie avec PhuteMegre terminée ; votre score : 5 mp + =
 [14:01:28] <_Jagged_Edge_> [14:01:20] Partie avec PhuteMegre terminée ; votre score : 5 mkc elem
 
+// surveillé par SquonK (92)
+[16:04:48] <Locke> [16:04:43] Partie avec f4rmeur_f0u terminée ; votre score : 4 + = alea
+[16:06:52] <Locke> [16:06:47] Partie avec f4rmeur_f0u terminée ; votre score : 4 mm ma elem
+[16:09:32] <Locke> [16:09:26] Partie avec f4rmeur_f0u terminée ; votre score : 4 mp + = alea
+[16:12:00] <Locke> [16:11:56] Partie avec f4rmeur_f0u terminée ; votre score : 5 mp bat
+[16:14:12] <Locke> [16:14:09] Partie avec f4rmeur_f0u terminée ; votre score : 6 mkc bat elem
+
+[16:04:46] <f4rmeur_f0u> [16:04:42] Partie avec Locke terminée ; votre score : 6 + = aléa
+[16:06:52] <f4rmeur_f0u> [16:06:45] Partie avec Locke terminée ; votre score : 6 mm ma élém
+[16:09:30] <f4rmeur_f0u> [16:09:26] Partie avec Locke terminée ; votre score : 6 mp + = aléa
+[16:12:04] <f4rmeur_f0u> [16:11:54] Partie avec Locke terminée ; votre score : 5 mp bat
+[16:14:13] <f4rmeur_f0u> [16:14:07] Partie avec Locke terminée ; votre score : 4 mkc bat élém
 
 
