@@ -9,7 +9,7 @@ Garuda Jessyca_Wilson Scarlett_Johansson Mina_Sauvage
 Gregsto11
 Huey -Sucette- PhuteMegre
 juju777
-Locke Lockounet
+Locke Lockounet Edgar
 Marluxia Zell
 Redsox Redou Horizz Redsox_Dispo
 Shiho SquonK PsY
@@ -626,7 +626,7 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [13:48:22] <_Jagged_Edge_> [13:48:07] Partie avec PhuteMegre terminée ; votre score : 5 mp + =
 [14:01:28] <_Jagged_Edge_> [14:01:20] Partie avec PhuteMegre terminée ; votre score : 5 mkc elem
 
-// surveillé par SquonK (92)
+// Surveillé par SquonK (92)
 [16:04:48] <Locke> [16:04:43] Partie avec f4rmeur_f0u terminée ; votre score : 4 + = alea
 [16:06:52] <Locke> [16:06:47] Partie avec f4rmeur_f0u terminée ; votre score : 4 mm ma elem
 [16:09:32] <Locke> [16:09:26] Partie avec f4rmeur_f0u terminée ; votre score : 4 mp + = alea
@@ -638,5 +638,83 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [16:09:30] <f4rmeur_f0u> [16:09:26] Partie avec Locke terminée ; votre score : 6 mp + = aléa
 [16:12:04] <f4rmeur_f0u> [16:11:54] Partie avec Locke terminée ; votre score : 5 mp bat
 [16:14:13] <f4rmeur_f0u> [16:14:07] Partie avec Locke terminée ; votre score : 4 mkc bat élém
+
+
+// Surveillé par SquonK (93)
+// Déjà joué
+// [19:03:52] <Edgar> [19:03:47] Partie avec Marluxia terminée ; votre score : 5 + = alea
+// [19:06:55] <Edgar> [19:06:51] Partie avec Marluxia terminée ; votre score : 3 mm ma elem
+// [19:11:29] <Edgar> [19:11:24] Partie avec Marluxia terminée ; votre score : 7 mp + = alea
+// [19:16:32] <Edgar> [19:16:26] Partie avec Marluxia terminée ; votre score : 5 mp
+// [19:23:00] <Edgar> [19:22:44] Partie avec Marluxia terminée ; votre score : 6 mkc
+// 
+// [19:03:54] <Marluxia> [18:03:50] Partie avec Edgar terminée ; votre score : 5 Alea + =
+// [19:06:57] <Marluxia> [18:06:53] Partie avec Edgar terminée ; votre score : 7 mm ma elem
+// [19:11:31] <Marluxia> [18:11:27] Partie avec Edgar terminée ; votre score : 3 Alea mp +=
+// [19:16:33] <Marluxia> [18:16:28] Partie avec Edgar terminée ; votre score : 5 MP BAT
+// [19:23:02] <Marluxia> [18:22:47] Partie avec Edgar terminée ; votre score : 4 Mkc ele bat
+
+
+// Surveillé par SquonK (93)
+[19:41:23] <Edgar> [19:41:14] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 4 r
+[19:46:34] <Edgar> [19:46:30] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 5 o
+[19:50:17] <Edgar> [19:50:09] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 3 b
+[19:55:06] <Edgar> [19:55:01] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 5 v
+[20:01:22] <Edgar> [20:01:17] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 4 j
+
+[19:41:21] <zlogjzeigfzgjpzeige> [19:41:12] Partie avec Edgar terminée ; votre score : 6 + = alea
+[19:46:39] <zlogjzeigfzgjpzeige> [19:46:28] Partie avec Edgar terminée ; votre score : 5 mm ma
+[19:50:17] <zlogjzeigfzgjpzeige> [19:50:09] Partie avec Edgar terminée ; votre score : 7 mp + = 
+[19:55:13] <zlogjzeigfzgjpzeige> [19:54:59] Partie avec Edgar terminée ; votre score : 5 mp
+[20:01:22] <zlogjzeigfzgjpzeige> [20:01:15] Partie avec Edgar terminée ; votre score : 6 mkc
+
+
+// Surveillé par Tae (94)
+[19:57:45] <_Jagged_Edge_> [19:57:28] Partie avec Edgar terminée ; votre score : 6 alea + =
+[20:03:22] <_Jagged_Edge_> [20:03:02] Partie avec Edgar terminée ; votre score : 4 mm ma élé
+[20:05:54] <_Jagged_Edge_> [20:05:36] Partie avec Edgar terminée ; votre score : 3 alea + = mp
+[20:12:19] <_Jagged_Edge_> [20:12:07] Partie avec Edgar terminée ; votre score : 4 mp bat
+[20:17:59] <_Jagged_Edge_> [20:17:49] Partie avec Edgar terminée ; votre score : 5 MKC
+
+
+// Surveillé par SquonK (95)
+[19:55:36] <_Jagged_Edge_> [19:55:30] Partie avec Redsox terminée ; votre score : 4 alea + =
+[20:08:49] <_Jagged_Edge_> [20:02:34] Partie avec Redsox terminée ; votre score : 3 mm ma élé
+[20:09:07] <_Jagged_Edge_> [20:08:25] Partie avec Redsox terminée ; votre score : 5 alea += mp
+[20:17:41] <_Jagged_Edge_> [20:17:26] Partie avec Redsox terminée ; votre score : 6 mp bat
+[20:23:39] <_Jagged_Edge_> [20:23:18] Partie avec Redsox terminée ; votre score : 6 mkc bat élé
+
+[19:55:42] <Redsox> [19:55:27] Partie avec _Jagged_Edge_ terminée ; votre score : 6 id +
+[20:02:42] <Redsox> [20:02:32] Partie avec _Jagged_Edge_ terminée ; votre score : 7 mm m
+[20:08:38] <Redsox> [20:08:22] Partie avec _Jagged_Edge_ terminée ; votre score : 5 mp id +
+[20:17:38] <Redsox> [20:17:24] Partie avec _Jagged_Edge_ terminée ; votre score : 4 mp
+[20:23:38] <Redsox> [20:23:16] Partie avec _Jagged_Edge_ terminée ; votre score : 4 mkc
+
+
+// Surveillé par SquonK (96)
+[20:13:38] <f4rmeur_f0u> [20:13:32] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 8 + = aléa
+[20:16:09] <f4rmeur_f0u> [20:15:51] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 6 mm ma élém
+[20:17:36] <f4rmeur_f0u> [20:17:29] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 6 mp + = améa
+[20:19:50] <f4rmeur_f0u> [20:19:30] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 4 mp bat
+[20:21:58] <f4rmeur_f0u> [20:21:52] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 5 mkc bat élém
+
+[20:14:10] <zlogjzeigfzgjpzeige> [20:13:32] Partie avec f4rmeur_f0u terminée ; votre score : 2 r
+[20:16:18] <zlogjzeigfzgjpzeige> [20:15:51] Partie avec f4rmeur_f0u terminée ; votre score : 4 o
+[20:17:38] <zlogjzeigfzgjpzeige> [20:17:29] Partie avec f4rmeur_f0u terminée ; votre score : 4 b
+[20:19:58] <zlogjzeigfzgjpzeige> [20:19:30] Partie avec f4rmeur_f0u terminée ; votre score : 6 v
+[20:21:58] <zlogjzeigfzgjpzeige> [20:21:52] Partie avec f4rmeur_f0u terminée ; votre score : 5 j
+
+
+// Surveillé par SquonK (97)
+[20:25:51] <Marluxia> [19:25:40] Partie avec f4rmeur_f0u terminée ; votre score : 6 alea +=
+[20:28:41] <Marluxia> [19:28:35] Partie avec f4rmeur_f0u terminée ; votre score : 9 mm ma elem
+[20:30:55] <Marluxia> [19:30:49] Partie avec f4rmeur_f0u terminée ; votre score : 6 alea mp +=
+[20:35:13] <Marluxia> [19:34:55] Partie avec f4rmeur_f0u terminée ; votre score : 6 Mp bat
+[20:36:59] <Marluxia> [19:36:52] Partie avec f4rmeur_f0u terminée ; votre score : 4 mkc elem bat
+[20:25:45] <f4rmeur_f0u> [20:25:35] Partie avec Marluxia terminée ; votre score : 4 + = aléa
+[20:29:54] <f4rmeur_f0u> [20:28:31] Partie avec Marluxia terminée ; votre score : 1 mm ma elem
+[20:30:52] <f4rmeur_f0u> [20:30:43] Partie avec Marluxia terminée ; votre score : 4 mp + = aléa
+[20:35:09] <f4rmeur_f0u> [20:34:50] Partie avec Marluxia terminée ; votre score : 4 mp bat
+[20:36:55] <f4rmeur_f0u> [20:36:49] Partie avec Marluxia terminée ; votre score : 6 mkc bat elem
 
 

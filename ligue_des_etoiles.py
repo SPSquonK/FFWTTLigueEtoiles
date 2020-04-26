@@ -22,7 +22,7 @@ def find_player(player_name):
     if player_name in list_of_other_names:
         return list_of_other_names[player_name]
     else:
-        sys.stderr.print("Unknown player : " + player_name)
+        sys.stderr.write("Unknown player : " + player_name + "\n")
         exit(0)
 
 
