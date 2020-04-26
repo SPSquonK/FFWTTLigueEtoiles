@@ -592,7 +592,8 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [22:38:06] <Gregsto11> [22:37:58] Partie avec Locke terminée ; votre score : 2 v
 [22:43:20] <Gregsto11> [22:43:06] Partie avec Locke terminée ; votre score : 6 j
 
-// Surveillé par SquonK (90)
+
+// Surveillé par SquonK (89)
 [23:10:02] <Marluxia> [22:09:13] Partie avec Locke terminée ; votre score : 4 Alea + =
 [23:16:34] <Marluxia> [22:16:22] Partie avec Locke terminée ; votre score : 4 mm ma élé
 [23:21:29] <Marluxia> [22:21:15] Partie avec Locke terminée ; votre score : 5 alea mp +=
@@ -605,4 +606,25 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [23:28:17] <Locke> [23:28:07] Partie avec Marluxia terminée ; votre score : 4 vert
 [23:34:08] <Locke> [23:34:00] Partie avec Marluxia terminée ; votre score : 4 jaune
 
+
+// Surveillé par SquonK (90)
+[12:41:16] <SquonK> [12:41:03] Partie avec _Jagged_Edge_ terminée ; votre score : 6 + =
+[12:43:59] <SquonK> [12:43:53] Partie avec _Jagged_Edge_ terminée ; votre score : 3 mm ma
+[12:46:40] <SquonK> [12:46:35] Partie avec _Jagged_Edge_ terminée ; votre score : 4 mp + =
+[12:51:27] <SquonK> [12:51:21] Partie avec _Jagged_Edge_ terminée ; votre score : 4 mp
+[12:54:47] <SquonK> [12:54:39] Partie avec _Jagged_Edge_ terminée ; votre score : 4 mkc
+
+// Surveillé par SquonK (91)
+
+
+[13:02:10] <PhuteMegre> [11:02:04] Partie avec _Jagged_Edge_ terminée ; votre score : 7 + = alea
+[13:09:42] <PhuteMegre> [11:09:32] Partie avec _Jagged_Edge_ terminée ; votre score : 5 mm ma
+[13:48:11] <PhuteMegre> [11:48:06] Partie avec _Jagged_Edge_ terminée ; votre score : 5 mp + =
+[13:51:48] <PhuteMegre> [11:51:45] Partie avec _Jagged_Edge_ terminée ; votre score : 6 mp bat
+[14:01:23] <PhuteMegre> [12:01:18] Partie avec _Jagged_Edge_ terminée ; votre score : 5 mkc elem
+
+[13:03:38] <_Jagged_Edge_> [13:02:05] Partie avec PhuteMegre terminée ; votre score : 3 += alea
+[13:09:40] <_Jagged_Edge_> [13:09:34] Partie avec PhuteMegre terminée ; votre score : 5 mm ma
+[13:48:22] <_Jagged_Edge_> [13:48:07] Partie avec PhuteMegre terminée ; votre score : 5 mp + =
+[14:01:28] <_Jagged_Edge_> [14:01:20] Partie avec PhuteMegre terminée ; votre score : 5 mkc elem
 
