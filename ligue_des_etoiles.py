@@ -351,9 +351,9 @@ for player_name in list_of_players:
     list_of_players[player_name]["final_rank"] = len(list_of_players) * len(rules)
 
     for rule in rules:
-        list_of_players[player_name]["final_rank"] -= rankings[rule].index(player_name)
+        list_of_players[player_name]["final_rank"] -= list_of_players[player_name]["ranking"][rule]["rank"] 
 
-        list_of_players[player_name]["ranking"][rule]["pts"] = len(list_of_players) - rankings[rule].index(player_name)
+        list_of_players[player_name]["ranking"][rule]["pts"] = len(list_of_players) - list_of_players[player_name]["ranking"][rule]["rank"] 
 
     player_global_ranking.append(player_name)
 

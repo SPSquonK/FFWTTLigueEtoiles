@@ -822,3 +822,19 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [14:08:41] <Garuda> [14:08:15] Partie avec Redsox terminée ; votre score : 5 mp+=alea
 [14:12:24] <Garuda> [14:12:10] Partie avec Redsox terminée ; votre score : 4 mp bat
 [14:17:12] <Garuda> [14:16:59] Partie avec Redsox terminée ; votre score : 5 mkc machin
+
+// Surveillé par SquonK (106)
+[14:56:57] <ClaXus> [14:56:39] Partie avec Hades terminée ; votre score : 6 id + aléa
+[15:02:41] <ClaXus> [15:02:28] Partie avec Hades terminée ; votre score : 4 mm ma elm
+[15:07:23] <ClaXus> [15:07:15] Partie avec Hades terminée ; votre score : 7 mp id + aléa
+[15:15:59] <ClaXus> [15:15:35] Partie avec Hades terminée ; votre score : 5 mp bat
+[15:21:47] <ClaXus> [15:21:38] Partie avec Hades terminée ; votre score : 4 mkc elem bat
+
+[14:56:54] <Hades> [14:56:38] Partie avec ClaXus terminée ; votre score : 4 id + alea
+[15:02:40] <Hades> [15:02:29] Partie avec ClaXus terminée ; votre score : 6 mm ma elem
+[15:07:31] <Hades> [15:07:15] Partie avec ClaXus terminée ; votre score : 3 mp id + alea
+[15:16:09] <Hades> [15:15:34] Partie avec ClaXus terminée ; votre score : 5 mp bat
+[15:21:52] <Hades> [15:21:38] Partie avec ClaXus terminée ; votre score : 6 mkc elem bat
+
+
+
