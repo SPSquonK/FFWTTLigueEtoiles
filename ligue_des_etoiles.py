@@ -383,7 +383,9 @@ if True:
 
 
 for (i, player_name) in enumerate(player_global_ranking):
-    s = "<tr><th>" + str(i + 1) + "</th><td>" + player_name + "</td><td>" + str(list_of_players[player_name]["final_rank"]) + "</td><th></th>"
+    s = "<tr><th>" + str(i + 1) + "</th><td>" + player_name + "</td><td>" + str(list_of_players[player_name]["final_rank"])
+
+    s += "</td><th></th>"
 
     for rule in rules:
         r = str(list_of_players[player_name]["ranking"][rule]["rank"])
