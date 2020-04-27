@@ -1,6 +1,6 @@
 -- Players --
 
-ClaXus Jecht Nomi_Marks Kefka_Palazzo
+ClaXus Jecht Nomi_Marks Kefka_Palazzo Ishtar
 Darckzander Aldiabloss Bluetooth _Soul_reaper_
 Didier_Raoult
 DjaM
@@ -10,13 +10,13 @@ Huey -Sucette- PhuteMegre
 juju777
 Locke Lockounet Edgar
 Marluxia Zell
+MLogan zlogjzeigfzgjpzeige
 Redsox Redou Horizz Redsox_Dispo
 Shiho SquonK PsY
 Sweeney Inoubliable-Squall
 Tae-Ju Zack Tae
 TymGiu Hades Ikks Lalime
 Xenmas f4rmeur_f0u Prince_of_Persia
-zlogjzeigfzgjpzeige MLogan
 _Jagged_Edge_
 
 
@@ -848,6 +848,32 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [16:22:18] <Xenmas> [16:22:04] Partie avec ClaXus terminée ; votre score : 2 mp + = aléa
 [16:26:50] <Xenmas> [16:26:38] Partie avec ClaXus terminée ; votre score : 4 mp bat
 [16:31:14] <Xenmas> [16:31:06] Partie avec ClaXus terminée ; votre score : 6 mkc bat elem
+
+// Surveillé par SquonK (108)
+[17:00:55] <Redsox> [17:00:32] Partie avec juju777 terminée ; votre score : 4 id +
+[17:09:55] <Redsox> [17:09:37] Partie avec juju777 terminée ; votre score : 5 mm ma
+[17:15:35] <Redsox> [17:15:25] Partie avec juju777 terminée ; votre score : 4 mp id +
+[17:25:10] <Redsox> [17:24:58] Partie avec juju777 terminée ; votre score : 4 mp
+[17:38:01] <Redsox> [17:37:50] Partie avec juju777 terminée ; votre score : 5 mkc
+
+[17:00:47] <juju777> [17:00:34] Partie avec Redsox terminée ; votre score : 6 alea + =
+[17:09:51] <juju777> [17:09:40] Partie avec Redsox terminée ; votre score : 5 mm ma elem
+[17:15:40] <juju777> [17:15:28] Partie avec Redsox terminée ; votre score : 6 alea + = mp
+[17:25:12] <juju777> [17:25:02] Partie avec Redsox terminée ; votre score : 6 mp bat
+[17:38:31] <juju777> [17:37:53] Partie avec Redsox terminée ; votre score : 5 mkc elem bat
+
+// Surveillé par SquonK (109)
+[17:21:09] <ClaXus> [17:12:49] Partie avec Redsox terminée ; votre score : 4 id + alea
+[17:31:00] <ClaXus> [17:27:34] Partie avec Redsox terminée ; votre score : 6 mm ma elem
+[17:39:21] <Ishtar> [17:39:04] Partie avec Redsox terminée ; votre score : 7 mp id + aléa
+[17:46:36] <Ishtar> [17:46:22] Partie avec Redsox terminée ; votre score : 4 mp bat
+
+[17:21:07] <Redsox> [17:20:58] Partie avec ClaXus terminée ; votre score : 6 id +
+[17:32:02] <Redsox> [17:30:49] Partie avec ClaXus terminée ; votre score : 4 mm ma
+[17:39:14] <Redsox> [17:39:05] Partie avec Ishtar terminée ; votre score : 3 mp id +
+[17:47:25] <Redsox> [17:46:21] Partie avec Ishtar terminée ; votre score : 6 mp
+
+
 
 
 
