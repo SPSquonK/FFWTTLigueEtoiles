@@ -307,6 +307,7 @@ for rule in rules:
     l.sort(key=cmp_rule)
 
 
+
 for i in range(len(list_of_players)):
     s = "<tr><th>" + str(i + 1) + "</th>"
 
@@ -327,6 +328,26 @@ for i in range(len(list_of_players)):
     s += "</tr>"
 
     print(s)
+
+ll = [x for x in list_of_players]
+
+for rule in rules:
+    ll.sort(key=lambda p: list_of_players[p]["ranking"][rule]["rank"])
+
+    p = 99999
+    l = -1
+
+    for p_name in ll:
+
+        profile = list_of_players[p_name]["ranking"][rule]
+        
+        if profile["score"] == p:
+            profile["rank"] = l
+        else:
+            p = profile["score"]
+            l = profile["rank"]
+
+
 
 
 print('</table>')

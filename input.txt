@@ -4,7 +4,6 @@ ClaXus Jecht Nomi_Marks Kefka_Palazzo
 Darckzander Aldiabloss Bluetooth _Soul_reaper_
 Didier_Raoult
 DjaM
-f4rmeur_f0u Prince_of_Persia Xenmas
 Garuda Jessyca_Wilson Scarlett_Johansson Mina_Sauvage
 Gregsto11
 Huey -Sucette- PhuteMegre
@@ -16,6 +15,7 @@ Shiho SquonK PsY
 Sweeney Inoubliable-Squall
 Tae-Ju Zack Tae
 TymGiu Hades Ikks Lalime
+Xenmas f4rmeur_f0u Prince_of_Persia
 zlogjzeigfzgjpzeige MLogan
 _Jagged_Edge_
 
@@ -835,6 +835,19 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [15:07:31] <Hades> [15:07:15] Partie avec ClaXus terminée ; votre score : 3 mp id + alea
 [15:16:09] <Hades> [15:15:34] Partie avec ClaXus terminée ; votre score : 5 mp bat
 [15:21:52] <Hades> [15:21:38] Partie avec ClaXus terminée ; votre score : 6 mkc elem bat
+
+// Surveillé par SquonK (107)
+[16:15:35] <ClaXus> [16:04:30] Partie avec Xenmas terminée ; votre score : 5 id + alea
+[16:19:26] <ClaXus> [16:10:26] Partie avec Xenmas terminée ; votre score : 6 mm ma elem
+[16:22:13] <ClaXus> [16:14:39] Partie avec Xenmas terminée ; votre score : 8 mp id + aléa
+[16:26:46] <ClaXus> [16:21:29] Partie avec Xenmas terminée ; votre score : 6 mp bat
+[16:31:18] <ClaXus> [16:28:07] Partie avec Xenmas terminée ; votre score : 4 mkc elem bat
+
+[16:15:28] <Xenmas> [16:15:16] Partie avec ClaXus terminée ; votre score : 5 + = aléa
+[16:19:21] <Xenmas> [16:19:13] Partie avec ClaXus terminée ; votre score : 4 mm ma élém
+[16:22:18] <Xenmas> [16:22:04] Partie avec ClaXus terminée ; votre score : 2 mp + = aléa
+[16:26:50] <Xenmas> [16:26:38] Partie avec ClaXus terminée ; votre score : 4 mp bat
+[16:31:14] <Xenmas> [16:31:06] Partie avec ClaXus terminée ; votre score : 6 mkc bat elem
 
 
 
