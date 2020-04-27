@@ -392,6 +392,7 @@ _Jagged_Edge_
 
 // Surveillé par Tae-Ju (68)
 // Tae-Ju vs Didier_Raoult
+// Il a décidé de me troll en décalant la numérotation entre 68 et 109
 
 
 // Surveillé par Tae-Ju (69)
@@ -867,13 +868,41 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [17:31:00] <ClaXus> [17:27:34] Partie avec Redsox terminée ; votre score : 6 mm ma elem
 [17:39:21] <Ishtar> [17:39:04] Partie avec Redsox terminée ; votre score : 7 mp id + aléa
 [17:46:36] <Ishtar> [17:46:22] Partie avec Redsox terminée ; votre score : 4 mp bat
+[18:08:38] <Ishtar> [18:08:29] Partie avec Redsox terminée ; votre score : 6 mkc elem bat
 
 [17:21:07] <Redsox> [17:20:58] Partie avec ClaXus terminée ; votre score : 6 id +
 [17:32:02] <Redsox> [17:30:49] Partie avec ClaXus terminée ; votre score : 4 mm ma
 [17:39:14] <Redsox> [17:39:05] Partie avec Ishtar terminée ; votre score : 3 mp id +
 [17:47:25] <Redsox> [17:46:21] Partie avec Ishtar terminée ; votre score : 6 mp
+[18:08:49] <Redsox> [18:08:26] Partie avec Ishtar terminée ; votre score : 4 mkc
 
+// Surveillé par Tae-Ju qui m'a décalé la numérotation en replaçant un autre match (109)
+[19:18:58] <Marluxia> [18:18:46] Partie avec Redsox terminée ; votre score : 4 Alea + =
+[19:26:13] <Marluxia> [18:26:03] Partie avec Redsox terminée ; votre score : 4 Alea mp +=
+[19:33:06] <Marluxia> [18:32:55] Partie avec Redsox terminée ; votre score : 5 Mm ma elem
+[19:39:46] <Marluxia> [18:39:32] Partie avec Redsox terminée ; votre score : 5 Mp bat
+[19:46:56] <Marluxia> [18:46:41] Partie avec Redsox terminée ; votre score : 4 mkc élé bat
 
+// Surveillé par Tae-Ju (110)
+[19:53:57] <Darckzander> [19:53:56] Partie avec Xenmas terminée ; votre score : 5 id+alea
+[19:57:08] <Darckzander> [19:57:10] Partie avec Xenmas terminée ; votre score : 5 mm ma élé
+[19:59:18] <Darckzander> [19:59:19] Partie avec Xenmas terminée ; votre score : 7 mp id +alea
+[20:03:24] <Darckzander> [20:03:21] Partie avec Xenmas terminée ; votre score : 4 mp bat
+[20:06:34] <Darckzander> [20:06:38] Partie avec Xenmas terminée ; votre score : 6 mkc bat élé
+
+// Surveillé par Tae-Ju (111)
+[20:30:17] <Marluxia> [19:29:48] Partie avec Didier_Raoult terminée ; votre score : 4 Alea + =
+[20:33:08] <Marluxia> [19:32:57] Partie avec Didier_Raoult terminée ; votre score : 6 Mm ma ele
+[20:35:17] <Marluxia> [19:35:04] Partie avec Didier_Raoult terminée ; votre score : 6 Alea mp +=
+[20:38:06] <Marluxia> [19:37:57] Partie avec Didier_Raoult terminée ; votre score : 6 Mp Bat
+[20:40:48] <Marluxia> [19:40:37] Partie avec Didier_Raoult terminée ; votre score : 5 Mkc élé bat
+
+// Surveillé par Omicron2 (112)
+[22:54:44] <Gregsto11> [22:54:31] Partie avec Marluxia terminée ; votre score : 4 r
+[23:00:43] <Gregsto11> [23:00:20] Partie avec Marluxia terminée ; votre score : 5 o
+[23:07:14] <Gregsto11> [23:06:52] Partie avec Marluxia terminée ; votre score : 4 b
+[23:12:22] <Gregsto11> [23:12:09] Partie avec Marluxia terminée ; votre score : 5 v
+[23:18:27] <Gregsto11> [23:18:12] Partie avec Marluxia terminée ; votre score : 4 j
 
 
 
