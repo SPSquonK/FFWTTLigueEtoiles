@@ -904,5 +904,17 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [23:12:22] <Gregsto11> [23:12:09] Partie avec Marluxia terminée ; votre score : 5 v
 [23:18:27] <Gregsto11> [23:18:12] Partie avec Marluxia terminée ; votre score : 4 j
 
+// Surveillé par SquonK (113)
 
+[11:07:00] <Shiho> [11:06:55] Partie avec Didier_Raoult terminée ; votre score : 5 rouge
+[11:10:17] <Shiho> [11:10:10] Partie avec Didier_Raoult terminée ; votre score : 5 mm ma alem
+[11:13:27] <Shiho> [11:13:22] Partie avec Didier_Raoult terminée ; votre score : 3 mp + =
+[11:19:24] <Shiho> [11:19:15] Partie avec Didier_Raoult terminée ; votre score : 5 mp
+[11:23:32] <Shiho> [11:23:28] Partie avec Didier_Raoult terminée ; votre score : 5 mkc
+
+[11:07:25] <Didier_Raoult> [11:06:55] Partie avec Shiho terminée ; votre score : 5   +=ALEA
+[11:10:24] <Didier_Raoult> [11:10:12] Partie avec Shiho terminée ; votre score : 5 mm ma elem
+[11:13:35] <Didier_Raoult> [11:13:24] Partie avec Shiho terminée ; votre score : 7  Mp+=ALEA
+[11:19:24] <Didier_Raoult> [11:19:16] Partie avec Shiho terminée ; votre score : 5  mp bat
+[11:23:41] <Didier_Raoult> [11:23:29] Partie avec Shiho terminée ; votre score : 5  mKC
 
