@@ -996,17 +996,38 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [20:32:14] <MLogan> [20:32:02] Partie avec Gregsto11 terminée ; votre score : 5 += alea
 [20:37:39] <MLogan> [20:37:27] Partie avec Gregsto11 terminée ; votre score : 7 mm ma alea
 [20:42:58] <MLogan> [20:37:27] Partie avec Gregsto11 terminée ; votre score : 7 mp += alea
-
+[20:57:13] <MLogan> [20:57:04] Partie avec Gregsto11 terminée ; votre score : 8 mp bat ele xd
+[21:03:02] <MLogan> [21:02:54] Partie avec Gregsto11 terminée ; votre score : 7 mkc ele bat
 
 [20:32:18] <Gregsto11> [20:32:05] Partie avec MLogan terminée ; votre score : 5  += alea
 [20:38:11] <Gregsto11> [20:37:28] Partie avec MLogan terminée ; votre score : 3   += MM MA E
 [20:42:46] <Gregsto11> [20:42:34] Partie avec MLogan terminée ; votre score : 3   += MP ALEA
+[20:57:21] <Gregsto11> [20:57:07] Partie avec MLogan terminée ; votre score : 2  mp b
+[21:03:15] <Gregsto11> [21:02:57] Partie avec MLogan terminée ; votre score : 3  MC B ELEM  
 
 
 // Surveillé par SquonK (123 SOLEIL)
 [20:45:59] <Marluxia> [19:45:39] Partie avec _Jagged_Edge_ terminée ; votre score : 5 Alea + =
+[20:51:02] <Marluxia> [19:50:50] Partie avec _Jagged_Edge_ terminée ; votre score : 6 Mm ma élé
+[20:53:49] <Marluxia> [19:53:35] Partie avec _Jagged_Edge_ terminée ; votre score : 5 Alea mp + =
+[20:57:50] <Marluxia> [19:57:27] Partie avec _Jagged_Edge_ terminée ; votre score : 4 Mp Bat
+[20:59:54] <Marluxia> [19:59:43] Partie avec _Jagged_Edge_ terminée ; votre score : 5 Mkc bat élé
 
 [20:46:01] <_Jagged_Edge_> [20:45:37] Partie avec Marluxia terminée ; votre score : 5 alea + =
+[20:51:16] <_Jagged_Edge_> [20:50:49] Partie avec Marluxia terminée ; votre score : 4 mm ma élé
+[20:54:05] <_Jagged_Edge_> [20:53:33] Partie avec Marluxia terminée ; votre score : 5 alea += mp
+[20:57:47] <_Jagged_Edge_> [20:57:26] Partie avec Marluxia terminée ; votre score : 6 mp bat
+[21:10:42] <_Jagged_Edge_> [21:10:17] Partie avec MLogan terminée ; votre score : 4 mp + = alea
 
+// Surveillé par SquonK (124)
+[21:00:16] <MLogan> [21:00:03] Partie avec _Jagged_Edge_ terminée ; votre score : 3 += ale
+[21:06:21] <MLogan> [21:06:08] Partie avec _Jagged_Edge_ terminée ; votre score : 5 mm m aerla
+[21:10:29] <MLogan> [21:10:17] Partie avec _Jagged_Edge_ terminée ; votre score : 6 alea += mp
+[21:14:33] <MLogan> [21:14:22] Partie avec _Jagged_Edge_ terminée ; votre score : 5 mp bat
+[21:18:58] <MLogan> [21:18:50] Partie avec _Jagged_Edge_ terminée ; votre score : 6 mkc bat ele
 
-
+[21:00:54] <_Jagged_Edge_> [21:00:04] Partie avec MLogan terminée ; votre score : 7 alea + =
+[21:06:24] <_Jagged_Edge_> [21:06:09] Partie avec MLogan terminée ; votre score : 5 mm ma élé
+[21:10:42] <_Jagged_Edge_> [21:10:17] Partie avec MLogan terminée ; votre score : 4 mp + = alea
+[21:14:54] <_Jagged_Edge_> [21:14:23] Partie avec MLogan terminée ; votre score : 5 MP BAT
+[21:19:02] <_Jagged_Edge_> [21:18:50] Partie avec MLogan terminée ; votre score : 4 MKC bat
