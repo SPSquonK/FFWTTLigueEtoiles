@@ -979,6 +979,28 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [17:54:46] <juju777> [17:54:36] Partie avec Marluxia terminée ; votre score : 4 mp bat
 [17:58:28] <juju777> [17:58:15] Partie avec Marluxia terminée ; votre score : 5 mkc elem bat
 
+// Surveillé par SquonK (121)
+[20:27:13] <MLogan> [20:26:51] Partie avec Marluxia terminée ; votre score : 6 += alea
+[20:32:37] <MLogan> [20:32:27] Partie avec Marluxia terminée ; votre score : 5 mm ma allea ele
+[20:37:20] <MLogan> [20:37:00] Partie avec Marluxia terminée ; votre score : 4 mp +=a laea
+[20:42:46] <MLogan> [20:42:40] Partie avec Marluxia terminée ; votre score : 2 mp baty
+
+
+// Surveillé par SquonK (122)
+[20:32:14] <MLogan> [20:32:02] Partie avec Gregsto11 terminée ; votre score : 5 += alea
+[20:37:39] <MLogan> [20:37:27] Partie avec Gregsto11 terminée ; votre score : 7 mm ma alea
+[20:42:58] <MLogan> [20:37:27] Partie avec Gregsto11 terminée ; votre score : 7 mp += alea
+
+
+[20:32:18] <Gregsto11> [20:32:05] Partie avec MLogan terminée ; votre score : 5  += alea
+[20:38:11] <Gregsto11> [20:37:28] Partie avec MLogan terminée ; votre score : 3   += MM MA E
+[20:42:46] <Gregsto11> [20:42:34] Partie avec MLogan terminée ; votre score : 3   += MP ALEA
+
+
+// Surveillé par SquonK (123 SOLEIL)
+[20:45:59] <Marluxia> [19:45:39] Partie avec _Jagged_Edge_ terminée ; votre score : 5 Alea + =
+
+[20:46:01] <_Jagged_Edge_> [20:45:37] Partie avec Marluxia terminée ; votre score : 5 alea + =
 
 
 
