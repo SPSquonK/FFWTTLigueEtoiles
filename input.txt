@@ -984,7 +984,13 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [20:32:37] <MLogan> [20:32:27] Partie avec Marluxia terminée ; votre score : 5 mm ma allea ele
 [20:37:20] <MLogan> [20:37:00] Partie avec Marluxia terminée ; votre score : 4 mp +=a laea
 [20:42:46] <MLogan> [20:42:40] Partie avec Marluxia terminée ; votre score : 2 mp baty
+[20:49:50] <MLogan> [20:49:40] Partie avec Marluxia terminée ; votre score : 5 mkc bat ele
 
+[20:27:07] <Marluxia> [19:27:00] Partie avec MLogan terminée ; votre score : 4 Alea + =
+[20:32:43] <Marluxia> [19:32:29] Partie avec MLogan terminée ; votre score : 5 mm ma élé
+[20:37:13] <Marluxia> [19:37:02] Partie avec MLogan terminée ; votre score : 6 Alea mp + =
+[20:42:54] <Marluxia> [19:42:42] Partie avec MLogan terminée ; votre score : 8 Mp bat
+[20:50:04] <Marluxia> [19:49:43] Partie avec MLogan terminée ; votre score : 5 mkc élé bat
 
 // Surveillé par SquonK (122)
 [20:32:14] <MLogan> [20:32:02] Partie avec Gregsto11 terminée ; votre score : 5 += alea
