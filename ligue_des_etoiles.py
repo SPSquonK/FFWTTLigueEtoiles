@@ -6,6 +6,7 @@ from collections import OrderedDict
 
 list_of_players = OrderedDict()
 list_of_other_names = {}
+removed_names = {}
 
 rules = OrderedDict()
 rules["+ ="] = ("red", "+ = alea")
@@ -19,7 +20,9 @@ is_reading_players = True
 stop = False
 
 def find_player(player_name):
-    if player_name in list_of_other_names:
+    if player_name in removed_names:
+        return None
+    elif player_name in list_of_other_names:
         return list_of_other_names[player_name]
     else:
         sys.stderr.write("Unknown player : " + player_name + "\n")
@@ -143,26 +146,31 @@ with open("input.txt", encoding="utf-8") as f:
 
         if is_reading_players:
             names = line.split(" ")
-            list_of_players[names[0]] = {}
-            list_of_players[names[0]]["games"] = {}
-            list_of_players[names[0]]["games"]["+ ="] = {}
-            list_of_players[names[0]]["games"]["mm ma"] = {}
-            list_of_players[names[0]]["games"]["mp + ="] = {}
-            list_of_players[names[0]]["games"]["mp"] = {}
-            list_of_players[names[0]]["games"]["mkc"] = {}
-            list_of_players[names[0]]["name"] = names[0]
-            list_of_players[names[0]]["ranking"] = {}
+            if names[0] == "-":
+                for other_name in names:
+                    removed_names[other_name] = True
+            else:
+                list_of_players[names[0]] = {}
+                list_of_players[names[0]]["games"] = {}
+                list_of_players[names[0]]["games"]["+ ="] = {}
+                list_of_players[names[0]]["games"]["mm ma"] = {}
+                list_of_players[names[0]]["games"]["mp + ="] = {}
+                list_of_players[names[0]]["games"]["mp"] = {}
+                list_of_players[names[0]]["games"]["mkc"] = {}
+                list_of_players[names[0]]["name"] = names[0]
+                list_of_players[names[0]]["ranking"] = {}
 
-            for name in names:
-                list_of_other_names[name] = names[0]
+                for name in names:
+                    list_of_other_names[name] = names[0]
         else:
             game_object = read_peer(line)
 
             if game_object is None:
                 game_object = read_game(line)
 
-            register_game(list_of_players[game_object["player1"]], game_object["player2"], game_object["rule"], game_object["score"])
-            register_game(list_of_players[game_object["player2"]], game_object["player1"], game_object["rule"], 10 - game_object["score"])
+            if game_object["player1"] is not None and game_object["player2"] is not None:
+                register_game(list_of_players[game_object["player1"]], game_object["player2"], game_object["rule"], game_object["score"])
+                register_game(list_of_players[game_object["player2"]], game_object["player1"], game_object["rule"], 10 - game_object["score"])
 
 
 
