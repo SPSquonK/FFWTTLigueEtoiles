@@ -1031,3 +1031,26 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [21:10:42] <_Jagged_Edge_> [21:10:17] Partie avec MLogan terminée ; votre score : 4 mp + = alea
 [21:14:54] <_Jagged_Edge_> [21:14:23] Partie avec MLogan terminée ; votre score : 5 MP BAT
 [21:19:02] <_Jagged_Edge_> [21:18:50] Partie avec MLogan terminée ; votre score : 4 MKC bat
+
+// Surveillé par SquonK (125)
+[22:58:26] <Shiho> [22:58:20] Partie avec MLogan terminée ; votre score : 3 + =
+[22:58:35] <MLogan> [22:58:21] Partie avec Shiho terminée ; votre score : 7 Alea +=
+[23:02:22] <Shiho> [23:02:16] Partie avec MLogan terminée ; votre score : 3 mm ma
+[23:02:24] <MLogan> [23:02:16] Partie avec Shiho terminée ; votre score : 7 mm ma
+[23:05:57] <Shiho> [23:05:48] Partie avec MLogan terminée ; votre score : 7 mp + =
+[23:06:04] <MLogan> [23:05:48] Partie avec Shiho terminée ; votre score : 3 mp +=
+[23:12:36] <Shiho> [23:12:30] Partie avec MLogan terminée ; votre score : 4 mp
+[23:12:40] <MLogan> [23:12:31] Partie avec Shiho terminée ; votre score : 6 mp bat
+[23:16:39] <Shiho> [23:16:35] Partie avec MLogan terminée ; votre score : 5 mkc
+[23:16:47] <MLogan> [23:16:35] Partie avec Shiho terminée ; votre score : 5 mkc élé bat
+
+// Aurais-je un jour tous les scores quand c'est pas moi qui surveille - Omicron2 (126)
+[22:43:20] <MLogan> [22:43:10] Partie avec Darckzander terminée ; votre score : 7 += alea
+[22:47:27] <MLogan> [22:47:14] Partie avec Darckzander terminée ; votre score : 5 mm ma élé
+[22:51:24] <MLogan> [22:51:10] Partie avec Darckzander terminée ; votre score : 4 mp += alea
+[22:58:08] <MLogan> [22:57:33] Partie avec Darckzander terminée ; votre score : 6 mp bat
+[23:03:43] <MLogan> [23:03:26] Partie avec Darckzander terminée ; votre score : 6 mkc bat élé
+
+
+
+

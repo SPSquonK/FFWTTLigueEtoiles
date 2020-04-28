@@ -208,6 +208,7 @@ for player_name in list_of_players:
 #print("List of other names")
 #pp.pprint(list_of_other_names, indent=2)
 
+PRINT_MISSING = True
 
 print()
 print()
@@ -219,6 +220,9 @@ def get_global_header():
 
     for player_name in list_of_players:
         s += "<th>" + player_name + "</th>"
+
+    if PRINT_MISSING:
+        s += "<th>Restant</th>"
 
     s += "</tr>"
     return s
@@ -234,6 +238,10 @@ for player_name in list_of_players:
     s += "<th>" + str(p_dict["played"]) + "</th>"
 
     for other_p_name in list_of_players:
+        if other_p_name == player_name:
+            s += "<th></th>"
+            continue
+
         s += "<td>"
 
         for rule in rules:
@@ -245,6 +253,26 @@ for player_name in list_of_players:
             s += " "
 
         s += "</td>"
+
+    if PRINT_MISSING:
+        s += "<td>"
+        america_first = True
+        for other in list_of_players:
+            if other == player_name:
+                continue
+
+            if other not in p_dict["games"]["mkc"]:
+                if america_first:
+                    america_first = False
+                else:
+                    s += ", "
+
+                s += other
+
+        s += "</td>"
+
+
+
 
     s += "</tr>"
     print(s)
