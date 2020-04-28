@@ -952,5 +952,33 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [15:42:38] <Gregsto11> [15:42:27] Partie avec ClaXus terminée ; votre score : 3  MP B
 [15:45:56] <Gregsto11> [15:45:45] Partie avec ClaXus terminée ; votre score : 2 ELEM B MC
 
+// N'a pas été surveillé (à la limite par ClaXus) (118)
+[15:52:53] <ClaXus> [15:52:46] Partie avec _Jagged_Edge_ terminée ; votre score : 5 id + alea
+[15:58:49] <ClaXus> [15:58:37] Partie avec _Jagged_Edge_ terminée ; votre score : 5 mm ma elem
+[16:01:44] <ClaXus> [16:01:38] Partie avec _Jagged_Edge_ terminée ; votre score : 6 mp id + alea
+[16:05:24] <ClaXus> [16:05:18] Partie avec _Jagged_Edge_ terminée ; votre score : 5 mp bat
+[16:09:10] <ClaXus> [16:08:56] Partie avec _Jagged_Edge_ terminée ; votre score : 5 mkc elem bat
+
+[15:53:02] <_Jagged_Edge_> [15:52:48] Partie avec ClaXus terminée ; votre score : 5 + = alea
+[15:58:49] <_Jagged_Edge_> [15:58:40] Partie avec ClaXus terminée ; votre score : 5 mm ma elem
+[16:01:54] <_Jagged_Edge_> [16:01:39] Partie avec ClaXus terminée ; votre score : 4 alea +=mp
+[16:05:32] <_Jagged_Edge_> [16:05:18] Partie avec ClaXus terminée ; votre score : 5 mp bat
+[16:09:17] <_Jagged_Edge_> [16:08:57] Partie avec ClaXus terminée ; votre score : 5 MKC Bat élé
+
+// Surveillé par Tae-Ju (119)
+[17:04:37] <ClaXus> [17:04:29] Partie avec Marluxia terminée ; votre score : 3 id + alea
+[17:09:54] <ClaXus> [17:09:43] Partie avec Marluxia terminée ; votre score : 4 mm ma elem
+[17:13:01] <ClaXus> [17:12:50] Partie avec Marluxia terminée ; votre score : 4 mp id + aléa
+[17:17:09] <ClaXus> [17:17:01] Partie avec Marluxia terminée ; votre score : 4 mp bat
+[17:26:31] <ClaXus> [17:26:22] Partie avec Marluxia terminée ; votre score : 6 mkc elem bat
+
+// Surveillé par Tae-Ju (120)
+[17:22:01] <juju777> [17:21:46] Partie avec Marluxia terminée ; votre score : 1 alea + =
+[17:29:28] <juju777> [17:29:15] Partie avec Marluxia terminée ; votre score : 6 mm ma elem
+[17:48:40] <juju777> [17:48:27] Partie avec Marluxia terminée ; votre score : 4 alea + = mp
+[17:54:46] <juju777> [17:54:36] Partie avec Marluxia terminée ; votre score : 4 mp bat
+[17:58:28] <juju777> [17:58:15] Partie avec Marluxia terminée ; votre score : 5 mkc elem bat
+
+
 
 
