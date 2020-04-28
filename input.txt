@@ -905,7 +905,6 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [23:18:27] <Gregsto11> [23:18:12] Partie avec Marluxia terminée ; votre score : 4 j
 
 // Surveillé par SquonK (113)
-
 [11:07:00] <Shiho> [11:06:55] Partie avec Didier_Raoult terminée ; votre score : 5 rouge
 [11:10:17] <Shiho> [11:10:10] Partie avec Didier_Raoult terminée ; votre score : 5 mm ma alem
 [11:13:27] <Shiho> [11:13:22] Partie avec Didier_Raoult terminée ; votre score : 3 mp + =
@@ -917,4 +916,41 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [11:13:35] <Didier_Raoult> [11:13:24] Partie avec Shiho terminée ; votre score : 7  Mp+=ALEA
 [11:19:24] <Didier_Raoult> [11:19:16] Partie avec Shiho terminée ; votre score : 5  mp bat
 [11:23:41] <Didier_Raoult> [11:23:29] Partie avec Shiho terminée ; votre score : 5  mKC
+
+// Surveillé par Tae-Ju (114)
+[14:18:52] <Garuda> [14:18:34] Partie avec Tae-Ju terminée ; votre score : 5 +=alea
+[14:21:20] <Garuda> [14:21:05] Partie avec Tae-Ju terminée ; votre score : 3 mm ma ele
+[14:23:11] <Garuda> [14:22:55] Partie avec Tae-Ju terminée ; votre score : 7 mp +=alea
+[14:27:00] <Garuda> [14:26:48] Partie avec Tae-Ju terminée ; votre score : 6 mp bat
+[14:34:32] <Garuda> [14:34:18] Partie avec Tae-Ju terminée ; votre score : 5 mkc bat ele
+
+// Surveillé par Tae-Ju (115)
+[14:20:13] <_Jagged_Edge_> [14:19:54] Partie avec Darckzander terminée ; votre score : 5 += alea
+[14:23:38] <_Jagged_Edge_> [14:23:22] Partie avec Darckzander terminée ; votre score : 7 mm ma élé
+[14:26:27] <_Jagged_Edge_> [14:26:13] Partie avec Darckzander terminée ; votre score : 8 alea + = mp
+[14:29:36] <_Jagged_Edge_> [14:29:23] Partie avec Darckzander terminée ; votre score : 5 mp bat
+[14:32:30] <_Jagged_Edge_> [14:32:21] Partie avec Darckzander terminée ; votre score : 7 MKC BAT élé
+
+// Surveillé par Tae-Ju (116)
+[14:39:22] <_Jagged_Edge_> [14:39:10] Partie avec Garuda terminée ; votre score : 6 += alea
+[14:42:19] <_Jagged_Edge_> [14:42:06] Partie avec Garuda terminée ; votre score : 6 mm ma élé
+[14:44:46] <_Jagged_Edge_> [14:44:29] Partie avec Garuda terminée ; votre score : 5 mp + = alea
+[14:50:52] <_Jagged_Edge_> [14:50:42] Partie avec Garuda terminée ; votre score : 4 mp bat
+[14:54:51] <_Jagged_Edge_> [14:54:15] Partie avec Garuda terminée ; votre score : 7 MKC bat élé
+
+
+// Surveillé par SquonK (117)
+[15:27:14] <ClaXus> [15:27:06] Partie avec Gregsto11 terminée ; votre score : 4 id + alea
+[15:32:41] <ClaXus> [15:32:34] Partie avec Gregsto11 terminée ; votre score : 4 mm ma elem
+[15:37:45] <ClaXus> [15:37:38] Partie avec Gregsto11 terminée ; votre score : 7 mp id + aléa
+[15:42:49] <ClaXus> [15:42:25] Partie avec Gregsto11 terminée ; votre score : 7 mp bat
+[15:45:48] <ClaXus> [15:45:43] Partie avec Gregsto11 terminée ; votre score : 8 mkc elem bat
+
+[15:27:23] <Gregsto11> [15:27:07] Partie avec ClaXus terminée ; votre score : 6   += alea
+[15:32:55] <Gregsto11> [15:32:35] Partie avec ClaXus terminée ; votre score : 6   += MM MA E
+[15:37:58] <Gregsto11> [15:37:39] Partie avec ClaXus terminée ; votre score : 3 += MP ALEA
+[15:42:38] <Gregsto11> [15:42:27] Partie avec ClaXus terminée ; votre score : 3  MP B
+[15:45:56] <Gregsto11> [15:45:45] Partie avec ClaXus terminée ; votre score : 2 ELEM B MC
+
+
 
