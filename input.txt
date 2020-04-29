@@ -1150,3 +1150,16 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [15:25:36] <zlogjzeigfzgjpzeige> [15:25:12] Partie avec ClaXus terminée ; votre score : 6 mp alea +=
 [15:39:38] <zlogjzeigfzgjpzeige> [15:33:14] Partie avec ClaXus terminée ; votre score : 5 mp bat
 [15:44:06] <zlogjzeigfzgjpzeige> [15:43:51] Partie avec ClaXus terminée ; votre score : 5 mkc bat ele
+
+// Surveillé par Omicron2 (136)
+[15:56:23] <Garuda> [15:56:10] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 7 += alea
+[16:03:39] <Garuda> [16:03:23] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 4 mm ma ele
+[16:09:22] <Garuda> [16:09:10] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 5 mp += alea
+[16:15:18] <Garuda> [16:15:03] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 4 mp bat
+[16:23:43] <Garuda> [16:23:31] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 5 mkc bat ele
+
+[15:56:27] <zlogjzeigfzgjpzeige> [15:56:10] Partie avec Garuda terminée ; votre score : 3 += alea
+[16:03:38] <zlogjzeigfzgjpzeige> [16:03:24] Partie avec Garuda terminée ; votre score : 6 mm ma élé
+[16:09:22] <zlogjzeigfzgjpzeige> [16:09:11] Partie avec Garuda terminée ; votre score : 5 mp alea +=
+[16:15:14] <zlogjzeigfzgjpzeige> [16:15:04] Partie avec Garuda terminée ; votre score : 6 mp bat
+[16:23:42] <zlogjzeigfzgjpzeige> [16:23:32] Partie avec Garuda terminée ; votre score : 5 mkc bat élé
