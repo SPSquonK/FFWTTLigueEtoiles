@@ -1072,5 +1072,15 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [12:04:55] <Tae> [12:04:35] Partie avec Didier_Raoult terminée ; votre score : 5 V
 [12:08:11] <Tae> [12:08:04] Partie avec Didier_Raoult terminée ; votre score : 5 J
 
+// Surveillé par Omicron2 (130)
+[13:18:07] <Locke> [13:18:02] Partie avec Garuda terminée ; votre score : 5 r
+[13:21:33] <Locke> [13:21:27] Partie avec Garuda terminée ; votre score : 5 o
+[13:24:08] <Locke> [13:23:56] Partie avec Garuda terminée ; votre score : 5 b
+[13:27:41] <Locke> [13:27:35] Partie avec Garuda terminée ; votre score : 5 v
+[13:31:06] <Locke> [13:30:59] Partie avec Garuda terminée ; votre score : 4 j
 
-
+[13:18:15] <Garuda> [13:17:59] Partie avec Locke terminée ; votre score : 5 += alea
+[13:21:42] <Garuda> [13:21:24] Partie avec Locke terminée ; votre score : 5 mm ma ele
+[13:24:08] <Garuda> [13:23:53] Partie avec Locke terminée ; votre score : 5 mp += alea
+[13:27:45] <Garuda> [13:27:32] Partie avec Locke terminée ; votre score : 5 mp bat
+[13:31:10] <Garuda> [13:30:56] Partie avec Locke terminée ; votre score : 6 mkc bat ele
