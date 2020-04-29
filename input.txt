@@ -1183,6 +1183,19 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [17:56:58] <Didier_Raoult> [17:56:46] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 5 VERT
 [18:01:11] <Didier_Raoult> [18:01:01] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 6 JAUNE
 
+// Surveillé par Omicron2 (141)
+[17:54:57] <Garuda> [17:54:37] Partie avec Didier_Raoult terminée ; votre score : 6 +=alea
+[17:59:48] <Garuda> [17:59:22] Partie avec Didier_Raoult terminée ; votre score : 6 mm ma ele
+[18:03:15] <Garuda> [18:03:01] Partie avec Didier_Raoult terminée ; votre score : 7 mp += alea
+[18:06:25] <Garuda> [18:06:13] Partie avec Didier_Raoult terminée ; votre score : 5 mp bat
+[18:15:48] <Garuda> [18:13:45] Partie avec Didier_Raoult terminée ; votre score : 5 mkc bat ele
+
+[17:54:50] <Didier_Raoult> [17:54:40] Partie avec Garuda terminée ; votre score : 4 ROUGE
+[17:59:37] <Didier_Raoult> [17:59:25] Partie avec Garuda terminée ; votre score : 4 ORANGE
+[18:03:14] <Didier_Raoult> [18:03:03] Partie avec Garuda terminée ; votre score : 3 BLEU
+[18:06:25] <Didier_Raoult> [18:06:15] Partie avec Garuda terminée ; votre score : 5 VERT
+[18:13:59] <Didier_Raoult> [18:13:47] Partie avec Garuda terminée ; votre score : 5 JAUNE
+
 
 
 
