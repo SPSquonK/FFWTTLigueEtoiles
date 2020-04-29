@@ -3,7 +3,7 @@ import sys
 import pprint as pp
 from collections import OrderedDict
 
-
+rewards = []
 list_of_players = OrderedDict()
 list_of_other_names = {}
 removed_names = {}
@@ -17,6 +17,7 @@ rules["mkc"] = ("#d4c300", "mkc elem bat")
 
 
 is_reading_players = True
+is_reading_rewards = False
 stop = False
 
 def find_player(player_name):
@@ -139,9 +140,15 @@ with open("input.txt", encoding="utf-8") as f:
 
         if line == "-- Players --":
             is_reading_players = True
+            is_reading_rewards = False
+            continue
+        elif line == "-- Rewards --":
+            is_reading_players = False
+            is_reading_rewards = True
             continue
         elif line == "-- Games --":
             is_reading_players = False
+            is_reading_rewards = False
             continue
 
         if is_reading_players:
@@ -162,6 +169,8 @@ with open("input.txt", encoding="utf-8") as f:
 
                 for name in names:
                     list_of_other_names[name] = names[0]
+        elif is_reading_rewards:
+            rewards.append(line)
         else:
             game_object = read_peer(line)
 
@@ -174,7 +183,7 @@ with open("input.txt", encoding="utf-8") as f:
 
 
 
-def compute_rank(list_of_games):
+def compute_rank(list_of_games, mult):
     total_played = 0
     total_score = 0
 
@@ -184,7 +193,10 @@ def compute_rank(list_of_games):
     
     d = {}
     d["played"] = total_played
-    d["score"] = total_score
+    d["inter_score"] = total_score
+    d["bonus"] = mult * total_score / total_played 
+    d["score"] = d["inter_score"] + d["bonus"]
+    
     return d
 
 
@@ -192,7 +204,11 @@ for player_name in list_of_players:
     m = 9999
 
     for rule in ["+ =", "mm ma", "mp + =", "mp", "mkc"]:
-        list_of_players[player_name]["ranking"][rule] = compute_rank(list_of_players[player_name]["games"][rule])
+        mult = 0
+        if player_name == "Darckzander":
+            mult = 2
+
+        list_of_players[player_name]["ranking"][rule] = compute_rank(list_of_players[player_name]["games"][rule], mult)
         m = min(m, list_of_players[player_name]["ranking"][rule]["played"])
     
     list_of_players[player_name]["played"] = m
@@ -208,7 +224,7 @@ for player_name in list_of_players:
 #print("List of other names")
 #pp.pprint(list_of_other_names, indent=2)
 
-PRINT_MISSING = True
+PRINT_MISSING = False
 
 print()
 print()
@@ -352,10 +368,15 @@ for i in range(len(list_of_players)):
             s += "<th></th>"
         
         p_name = rankings[rule][i]
-        s += "<td>" + p_name + "</td><td>" + str(list_of_players[p_name]["ranking"][rule]["score"]) + "</td>"
+
+        k = str(list_of_players[p_name]["ranking"][rule]["inter_score"])
+        if list_of_players[p_name]["ranking"][rule]["bonus"] != 0:
+            k += " +" + "{:0.1f}".format(list_of_players[p_name]["ranking"][rule]["bonus"])
+
+        s += "<td>" + p_name + "</td><td>" + k + "</td>"
         if SHOW_AVERAGE:
             s += "<td>"
-            s += "{:0.1f}".format(list_of_players[p_name]["ranking"][rule]["score"] / list_of_players[p_name]["ranking"][rule]["played"])
+            s += "{:0.1f}".format(list_of_players[p_name]["ranking"][rule]["inter_score"] / list_of_players[p_name]["ranking"][rule]["played"])
             s += "</td>"
             #s += "<td>{:0.1f} {}</td>".format(list_of_players[p_name]["ranking"][rule]["score"] / list_of_players[player_name]["ranking"][rule]["played"], list_of_players[player_name]["ranking"][rule]["played"])
 
@@ -427,10 +448,10 @@ print()
 print()
 print()
 print()
-print('<center><table class="wikitable" border="1" style="text-align: center;">')
+print('<center><table class="wikitable" border="1" style="text-align: center; width: 100%">')
 
 if True:
-    s = "<tr><th>Position</th><th>Nom</th><th>Points de classement</th><th></th>"
+    s = "<tr><th>Position</th><th>Nom</th><th>Points de classement</th><th>Gain</th><th></th>"
     for rule in rules:
         s += "<th>Rang " + rules[rule][1] + "</th>"
     
@@ -440,9 +461,17 @@ if True:
 
 
 for (i, player_name) in enumerate(player_global_ranking):
-    s = "<tr><th>" + str(i + 1) + "</th><td>" + player_name + "</td><td>" + str(list_of_players[player_name]["final_rank"])
+    rank = i + 1
+    if rank == 6:
+        rank = 5
 
-    s += "</td><th></th>"
+    s = "<tr><th>" + str(rank) + "</th><th>" + player_name + "</th><td>" + str(list_of_players[player_name]["final_rank"])
+
+    s += "</td>"
+
+    s += "<td>" + rewards[rank - 1] + "</td>"
+    
+    s += "<th></th>"
 
     for rule in rules:
         r = str(list_of_players[player_name]["ranking"][rule]["rank"])
