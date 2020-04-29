@@ -1084,3 +1084,16 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [13:24:08] <Garuda> [13:23:53] Partie avec Locke terminée ; votre score : 5 mp += alea
 [13:27:45] <Garuda> [13:27:32] Partie avec Locke terminée ; votre score : 5 mp bat
 [13:31:10] <Garuda> [13:30:56] Partie avec Locke terminée ; votre score : 6 mkc bat ele
+
+// Surveillé par Omicron2 (132)
+[14:15:44] <Gregsto11> [14:15:35] Partie avec Garuda terminée ; votre score : 3 r
+[14:18:13] <Gregsto11> [14:17:54] Partie avec Garuda terminée ; votre score : 2 o
+[14:21:19] <Gregsto11> [14:21:07] Partie avec Garuda terminée ; votre score : 3 b
+[14:26:58] <Gregsto11> [14:26:46] Partie avec Garuda terminée ; votre score : 5 v
+[14:35:15] <Gregsto11> [14:34:36] Partie avec Garuda terminée ; votre score : 4 j
+
+[14:15:43] <Garuda> [14:15:31] Partie avec Gregsto11 terminée ; votre score : 7 += alea
+[14:18:02] <Garuda> [14:17:51] Partie avec Gregsto11 terminée ; votre score : 8 mm ma ele
+[14:21:17] <Garuda> [14:21:02] Partie avec Gregsto11 terminée ; votre score : 7 mp += alea
+[14:27:08] <Garuda> [14:26:41] Partie avec Gregsto11 terminée ; votre score : 5 mp bat
+[14:34:52] <Garuda> [14:34:31] Partie avec Gregsto11 terminée ; votre score : 6 mkc bat ele
