@@ -12,7 +12,7 @@ Locke Lockounet Edgar
 Marluxia Zell
 MLogan zlogjzeigfzgjpzeige
 Redsox Redou Horizz Redsox_Dispo
-Shiho SquonK PsY
+Shiho SquonK PsY Rayquaza
 - Sweeney Inoubliable-Squall
 Tae-Ju Zack Tae
 TymGiu Hades Ikks Lalime
@@ -1051,6 +1051,26 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [22:58:08] <MLogan> [22:57:33] Partie avec Darckzander terminée ; votre score : 6 mp bat
 [23:03:43] <MLogan> [23:03:26] Partie avec Darckzander terminée ; votre score : 6 mkc bat élé
 
+// Surveillé par Omicron2 (127)
+[11:41:10] <Garuda> [11:40:56] Partie avec Rayquaza terminée ; votre score : 3 += alea
+[11:46:38] <Garuda> [11:46:24] Partie avec Rayquaza terminée ; votre score : 5 mm ma ele
+[11:50:00] <Garuda> [11:49:45] Partie avec Rayquaza terminée ; votre score : 3 mp += alea
+[11:53:22] <Garuda> [11:53:07] Partie avec Rayquaza terminée ; votre score : 4 mp bat
+[11:57:58] <Garuda> [11:57:44] Partie avec Rayquaza terminée ; votre score : 4 mkc bat ele
+
+// Surveillé par Omicron2 (128)
+[11:48:40] <Gregsto11> [11:48:27] Partie avec Didier_Raoult terminée ; votre score : 4 r
+[11:53:11] <Gregsto11> [11:52:42] Partie avec Didier_Raoult terminée ; votre score : 2 o
+[11:58:22] <Gregsto11> [11:57:58] Partie avec Didier_Raoult terminée ; votre score : 6 b
+[12:03:01] <Gregsto11> [12:02:39] Partie avec Didier_Raoult terminée ; votre score : 4 v
+[12:07:55] <Gregsto11> [12:07:28] Partie avec Didier_Raoult terminée ; votre score : 5 j
+
+// Surveillé par Omicron2 (129)
+[11:53:18] <Tae> [11:53:10] Partie avec Didier_Raoult terminée ; votre score : 4 R
+[11:56:18] <Tae> [11:56:08] Partie avec Didier_Raoult terminée ; votre score : 5 O
+[11:59:48] <Tae> [11:59:26] Partie avec Didier_Raoult terminée ; votre score : 8 B
+[12:04:55] <Tae> [12:04:35] Partie avec Didier_Raoult terminée ; votre score : 5 V
+[12:08:11] <Tae> [12:08:04] Partie avec Didier_Raoult terminée ; votre score : 5 J
 
 
 
