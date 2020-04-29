@@ -1034,17 +1034,18 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 
 // Surveillé par SquonK (125)
 [22:58:26] <Shiho> [22:58:20] Partie avec MLogan terminée ; votre score : 3 + =
-[22:58:35] <MLogan> [22:58:21] Partie avec Shiho terminée ; votre score : 7 Alea +=
 [23:02:22] <Shiho> [23:02:16] Partie avec MLogan terminée ; votre score : 3 mm ma
-[23:02:24] <MLogan> [23:02:16] Partie avec Shiho terminée ; votre score : 7 mm ma
 [23:05:57] <Shiho> [23:05:48] Partie avec MLogan terminée ; votre score : 7 mp + =
-[23:06:04] <MLogan> [23:05:48] Partie avec Shiho terminée ; votre score : 3 mp +=
 [23:12:36] <Shiho> [23:12:30] Partie avec MLogan terminée ; votre score : 4 mp
-[23:12:40] <MLogan> [23:12:31] Partie avec Shiho terminée ; votre score : 6 mp bat
 [23:16:39] <Shiho> [23:16:35] Partie avec MLogan terminée ; votre score : 5 mkc
+
+[22:58:35] <MLogan> [22:58:21] Partie avec Shiho terminée ; votre score : 7 Alea +=
+[23:02:24] <MLogan> [23:02:16] Partie avec Shiho terminée ; votre score : 7 mm ma
+[23:06:04] <MLogan> [23:05:48] Partie avec Shiho terminée ; votre score : 3 mp +=
+[23:12:40] <MLogan> [23:12:31] Partie avec Shiho terminée ; votre score : 6 mp bat
 [23:16:47] <MLogan> [23:16:35] Partie avec Shiho terminée ; votre score : 5 mkc élé bat
 
-// Aurais-je un jour tous les scores quand c'est pas moi qui surveille - Omicron2 (126)
+// Surveillé par Omicron2 (126)
 [22:43:20] <MLogan> [22:43:10] Partie avec Darckzander terminée ; votre score : 7 += alea
 [22:47:27] <MLogan> [22:47:14] Partie avec Darckzander terminée ; votre score : 5 mm ma élé
 [22:51:24] <MLogan> [22:51:10] Partie avec Darckzander terminée ; votre score : 4 mp += alea
@@ -1196,6 +1197,30 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [18:06:25] <Didier_Raoult> [18:06:15] Partie avec Garuda terminée ; votre score : 5 VERT
 [18:13:59] <Didier_Raoult> [18:13:47] Partie avec Garuda terminée ; votre score : 5 JAUNE
 
+// Surveillé par SquonK (142)
+[18:24:57] <Garuda> [18:24:32] Partie avec Xenmas terminée ; votre score : 4 +=alea
+[18:27:40] <Garuda> [18:27:27] Partie avec Xenmas terminée ; votre score : 7 mm ma ele
+[18:30:32] <Garuda> [18:30:15] Partie avec Xenmas terminée ; votre score : 7 mp+=alea
+[18:32:44] <Garuda> [18:32:29] Partie avec Xenmas terminée ; votre score : 5 mp bat
+[18:36:29] <Garuda> [18:36:16] Partie avec Xenmas terminée ; votre score : 5 mkc bat ele
 
+[18:24:51] <Xenmas> [18:24:34] Partie avec Garuda terminée ; votre score : 6 + = aléa
+[18:28:34] <Xenmas> [18:27:29] Partie avec Garuda terminée ; votre score : 3 mm ma élém
+[18:30:27] <Xenmas> [18:30:15] Partie avec Garuda terminée ; votre score : 3 mp + = aléa
+[18:32:40] <Xenmas> [18:32:31] Partie avec Garuda terminée ; votre score : 5 mp bat
+[18:36:24] <Xenmas> [18:36:18] Partie avec Garuda terminée ; votre score : 5 mkc bat élém
+
+// Surveillé par SquonK (143)
+[18:29:06] <Didier_Raoult> [18:28:57] Partie avec _Jagged_Edge_ terminée ; votre score : 2 ROUGE
+[18:30:39] <Didier_Raoult> [18:30:30] Partie avec _Jagged_Edge_ terminée ; votre score : 3 ORANGE
+[18:32:13] <Didier_Raoult> [18:32:02] Partie avec _Jagged_Edge_ terminée ; votre score : 5  BLEUE
+[18:35:21] <Didier_Raoult> [18:35:06] Partie avec _Jagged_Edge_ terminée ; votre score : 5 VERT
+[18:38:09] <Didier_Raoult> [18:38:02] Partie avec _Jagged_Edge_ terminée ; votre score : 5 JAUNE
+
+[18:29:12] <_Jagged_Edge_> [18:28:58] Partie avec Didier_Raoult terminée ; votre score : 8 r
+[18:30:48] <_Jagged_Edge_> [18:30:30] Partie avec Didier_Raoult terminée ; votre score : 7 o
+[18:32:14] <_Jagged_Edge_> [18:32:02] Partie avec Didier_Raoult terminée ; votre score : 5 b
+[18:35:20] <_Jagged_Edge_> [18:35:05] Partie avec Didier_Raoult terminée ; votre score : 5 v
+[18:38:22] <_Jagged_Edge_> [18:38:01] Partie avec Didier_Raoult terminée ; votre score : 5 j
 
 
