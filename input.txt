@@ -1163,3 +1163,26 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [16:09:22] <zlogjzeigfzgjpzeige> [16:09:11] Partie avec Garuda terminée ; votre score : 5 mp alea +=
 [16:15:14] <zlogjzeigfzgjpzeige> [16:15:04] Partie avec Garuda terminée ; votre score : 6 mp bat
 [16:23:42] <zlogjzeigfzgjpzeige> [16:23:32] Partie avec Garuda terminée ; votre score : 5 mkc bat élé
+
+// Surveillé par ClaXus (139)
+[17:12:32] <Didier_Raoult> [17:12:11] Partie avec ClaXus terminée ; votre score : 5 R
+[17:15:48] <Didier_Raoult> [17:15:42] Partie avec ClaXus terminée ; votre score : 8 O
+[17:18:11] <Didier_Raoult> [17:18:08] Partie avec ClaXus terminée ; votre score : 7 B
+[17:21:02] <Didier_Raoult> [17:20:55] Partie avec ClaXus terminée ; votre score : 5 V
+[17:24:50] <Didier_Raoult> [17:24:49] Partie avec ClaXus terminée ; votre score : 6 J
+
+// Surveillé par SquonK (140)
+[17:41:47] <zlogjzeigfzgjpzeige> [17:41:26] Partie avec Didier_Raoult terminée ; votre score : 1 += alea
+[17:47:57] <zlogjzeigfzgjpzeige> [17:47:34] Partie avec Didier_Raoult terminée ; votre score : 5 mm ma
+[17:52:34] <zlogjzeigfzgjpzeige> [17:52:25] Partie avec Didier_Raoult terminée ; votre score : 5 mp +=
+[17:57:05] <zlogjzeigfzgjpzeige> [17:56:45] Partie avec Didier_Raoult terminée ; votre score : 5 mp bat
+
+[17:41:41] <Didier_Raoult> [17:41:27] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 9 ROUGE
+[17:48:24] <Didier_Raoult> [17:47:38] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 5  ORANGE
+[17:52:39] <Didier_Raoult> [17:52:26] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 5 BLEUE
+[17:56:58] <Didier_Raoult> [17:56:46] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 5 VERT
+[18:01:11] <Didier_Raoult> [18:01:01] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 6 JAUNE
+
+
+
+
