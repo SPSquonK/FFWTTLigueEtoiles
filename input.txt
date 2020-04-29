@@ -1097,3 +1097,56 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [14:21:17] <Garuda> [14:21:02] Partie avec Gregsto11 terminée ; votre score : 7 mp += alea
 [14:27:08] <Garuda> [14:26:41] Partie avec Gregsto11 terminée ; votre score : 5 mp bat
 [14:34:52] <Garuda> [14:34:31] Partie avec Gregsto11 terminée ; votre score : 6 mkc bat ele
+
+// Surveillé par Omicron2 (133)
+[15:16:10] <juju777> [15:15:56] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 3 alea + =
+[15:23:17] <juju777> [15:22:46] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 5 mm ma elem
+[15:32:44] <juju777> [15:28:51] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 5 alea + = mp
+[15:41:41] <juju777> [15:41:03] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 4 mp bat
+[15:50:43] <juju777> [15:50:31] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 6 mkc elem
+
+[15:17:39] <zlogjzeigfzgjpzeige> [15:15:54] Partie avec juju777 terminée ; votre score : 7 alea +=
+[15:22:54] <zlogjzeigfzgjpzeige> [15:22:44] Partie avec juju777 terminée ; votre score : 5 mm ma élé
+[15:29:09] <zlogjzeigfzgjpzeige> [15:28:49] Partie avec juju777 terminée ; votre score : 5 alea mp +=
+[15:41:11] <zlogjzeigfzgjpzeige> [15:41:02] Partie avec juju777 terminée ; votre score : 6 mp bat
+[15:50:41] <zlogjzeigfzgjpzeige> [15:50:29] Partie avec juju777 terminée ; votre score : 4 mkc bat élé
+
+
+// Surveillé par Omicron2 (134)
+[15:13:03] <Tae-Ju> [15:12:53] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 5 R
+[15:16:51] <Tae-Ju> [15:16:41] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 5 O
+[15:22:22] <Tae-Ju> [15:22:11] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 4 B
+[15:29:12] <Tae-Ju> [15:29:01] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 5 V
+[15:36:27] <Tae-Ju> [15:36:17] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 5 J
+
+[15:13:02] <zlogjzeigfzgjpzeige> [15:12:52] Partie avec Tae-Ju terminée ; votre score : 5 += alea
+[15:17:00] <zlogjzeigfzgjpzeige> [15:16:40] Partie avec Tae-Ju terminée ; votre score : 5 mm ma élé
+[15:22:21] <zlogjzeigfzgjpzeige> [15:22:10] Partie avec Tae-Ju terminée ; votre score : 6 mp + = alea
+[15:29:16] <zlogjzeigfzgjpzeige> [15:29:00] Partie avec Tae-Ju terminée ; votre score : 5 mp bat
+[15:36:27] <zlogjzeigfzgjpzeige> [15:36:16] Partie avec Tae-Ju terminée ; votre score : 5 mkc bat élé
+
+// Surveillé par Omicron2 (135)
+[15:25:11] <juju777> [15:24:52] Partie avec Garuda terminée ; votre score : 3 alea + =
+[15:32:26] <juju777> [15:32:02] Partie avec Garuda terminée ; votre score : 4 mm ma elem
+[15:36:53] <juju777> [15:36:29] Partie avec Garuda terminée ; votre score : 8 alea + = mp
+[15:46:40] <juju777> [15:46:29] Partie avec Garuda terminée ; votre score : 5 mp bat
+[15:54:45] <juju777> [15:54:20] Partie avec Garuda terminée ; votre score : 4 mkc elem bat
+
+[15:25:04] <Garuda> [15:24:50] Partie avec juju777 terminée ; votre score : 7 += alea
+[15:32:18] <Garuda> [15:32:00] Partie avec juju777 terminée ; votre score : 6 mm ma ele
+[15:36:43] <Garuda> [15:36:26] Partie avec juju777 terminée ; votre score : 2 mp += alea
+[15:47:03] <Garuda> [15:46:26] Partie avec juju777 terminée ; votre score : 5 mp bat
+[15:54:30] <Garuda> [15:54:18] Partie avec juju777 terminée ; votre score : 6 mkc bat ele
+
+// Surveillé par Omicron2 (136)
+[15:26:00] <ClaXus> [15:15:32] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 5 r
+[15:26:04] <ClaXus> [15:21:09] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 3 o
+[15:26:10] <ClaXus> [15:25:14] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 4 b
+[15:33:39] <ClaXus> [15:33:26] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 5 v
+[15:44:07] <ClaXus> [15:43:48] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 5 j
+
+[15:15:43] <zlogjzeigfzgjpzeige> [15:15:30] Partie avec ClaXus terminée ; votre score : 5 += alea
+[15:21:20] <zlogjzeigfzgjpzeige> [15:21:07] Partie avec ClaXus terminée ; votre score : 7 mm ma élé
+[15:25:36] <zlogjzeigfzgjpzeige> [15:25:12] Partie avec ClaXus terminée ; votre score : 6 mp alea +=
+[15:39:38] <zlogjzeigfzgjpzeige> [15:33:14] Partie avec ClaXus terminée ; votre score : 5 mp bat
+[15:44:06] <zlogjzeigfzgjpzeige> [15:43:51] Partie avec ClaXus terminée ; votre score : 5 mkc bat ele
