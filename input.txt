@@ -1085,7 +1085,7 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [13:27:45] <Garuda> [13:27:32] Partie avec Locke terminée ; votre score : 5 mp bat
 [13:31:10] <Garuda> [13:30:56] Partie avec Locke terminée ; votre score : 6 mkc bat ele
 
-// Surveillé par Omicron2 (132)
+// Surveillé par Omicron2 (131)
 [14:15:44] <Gregsto11> [14:15:35] Partie avec Garuda terminée ; votre score : 3 r
 [14:18:13] <Gregsto11> [14:17:54] Partie avec Garuda terminée ; votre score : 2 o
 [14:21:19] <Gregsto11> [14:21:07] Partie avec Garuda terminée ; votre score : 3 b
@@ -1098,7 +1098,7 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [14:27:08] <Garuda> [14:26:41] Partie avec Gregsto11 terminée ; votre score : 5 mp bat
 [14:34:52] <Garuda> [14:34:31] Partie avec Gregsto11 terminée ; votre score : 6 mkc bat ele
 
-// Surveillé par Omicron2 (133)
+// Surveillé par Omicron2 (132)
 [15:16:10] <juju777> [15:15:56] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 3 alea + =
 [15:23:17] <juju777> [15:22:46] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 5 mm ma elem
 [15:32:44] <juju777> [15:28:51] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 5 alea + = mp
@@ -1112,7 +1112,7 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [15:50:41] <zlogjzeigfzgjpzeige> [15:50:29] Partie avec juju777 terminée ; votre score : 4 mkc bat élé
 
 
-// Surveillé par Omicron2 (134)
+// Surveillé par Omicron2 (133)
 [15:13:03] <Tae-Ju> [15:12:53] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 5 R
 [15:16:51] <Tae-Ju> [15:16:41] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 5 O
 [15:22:22] <Tae-Ju> [15:22:11] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 4 B
@@ -1125,7 +1125,7 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [15:29:16] <zlogjzeigfzgjpzeige> [15:29:00] Partie avec Tae-Ju terminée ; votre score : 5 mp bat
 [15:36:27] <zlogjzeigfzgjpzeige> [15:36:16] Partie avec Tae-Ju terminée ; votre score : 5 mkc bat élé
 
-// Surveillé par Omicron2 (135)
+// Surveillé par Omicron2 (134)
 [15:25:11] <juju777> [15:24:52] Partie avec Garuda terminée ; votre score : 3 alea + =
 [15:32:26] <juju777> [15:32:02] Partie avec Garuda terminée ; votre score : 4 mm ma elem
 [15:36:53] <juju777> [15:36:29] Partie avec Garuda terminée ; votre score : 8 alea + = mp
@@ -1138,7 +1138,7 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [15:47:03] <Garuda> [15:46:26] Partie avec juju777 terminée ; votre score : 5 mp bat
 [15:54:30] <Garuda> [15:54:18] Partie avec juju777 terminée ; votre score : 6 mkc bat ele
 
-// Surveillé par Omicron2 (136)
+// Surveillé par Omicron2 (135)
 [15:26:00] <ClaXus> [15:15:32] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 5 r
 [15:26:04] <ClaXus> [15:21:09] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 3 o
 [15:26:10] <ClaXus> [15:25:14] Partie avec zlogjzeigfzgjpzeige terminée ; votre score : 4 b
