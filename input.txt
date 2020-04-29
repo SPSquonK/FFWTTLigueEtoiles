@@ -1223,4 +1223,16 @@ Darckzander Peer vs Gregsto11 mkc bat elem
 [18:35:20] <_Jagged_Edge_> [18:35:05] Partie avec Didier_Raoult terminée ; votre score : 5 v
 [18:38:22] <_Jagged_Edge_> [18:38:01] Partie avec Didier_Raoult terminée ; votre score : 5 j
 
+// Surveillé par Omicron2 (144)
+[19:11:23] <Garuda> [19:11:09] Partie avec Marluxia terminée ; votre score : 5 += alea
+[19:15:49] <Garuda> [19:15:30] Partie avec Marluxia terminée ; votre score : 4 mm ma ele
+[19:19:11] <Garuda> [19:18:56] Partie avec Marluxia terminée ; votre score : 3 mp += alea
+[19:22:38] <Garuda> [19:22:24] Partie avec Marluxia terminée ; votre score : 5 mp bat
+[19:25:51] <Garuda> [19:25:37] Partie avec Marluxia terminée ; votre score : 5 mkc bat ele
+
+[19:11:23] <Marluxia> [18:11:14] Partie avec Garuda terminée ; votre score : 5 Alea + =
+[19:15:48] <Marluxia> [18:15:37] Partie avec Garuda terminée ; votre score : 6 mm ma élé
+[19:19:49] <Marluxia> [18:19:03] Partie avec Garuda terminée ; votre score : 7 Alea mp +=
+[19:22:34] <Marluxia> [18:22:29] Partie avec Garuda terminée ; votre score : 5 Mp bat
+[19:25:51] <Marluxia> [18:25:42] Partie avec Garuda terminée ; votre score : 5 Mkc élé bat
 
